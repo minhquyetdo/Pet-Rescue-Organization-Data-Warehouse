@@ -14,7 +14,7 @@ This data warehouse enables efficient reporting, analysis, and decision-making f
 |**Slowly Changing Dimension Type 2**| Handle changes in dimension attributes over time |
 |**ETL Workflow**| This workflow facilitates seamless data extraction, transformation, and loading, ensuring that the data warehouse is regularly updated with the latest pet-related information|
 
-#### Explode the repository 
+#### Explore the repository 
 |Files| Description |
 |:------|-----------:|
 |what-how-why.txt|Data warehouse explain|
