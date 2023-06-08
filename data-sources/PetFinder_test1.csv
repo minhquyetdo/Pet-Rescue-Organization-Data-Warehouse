@@ -1,0 +1,1002 @@
+PetID,Type,Age,Breed1,Breed2,Gender,Color1,Color2,Color3,MaturitySize,FurLength,Vaccinated,Dewormed,Sterilized,Health,Quantity,Fee,State,RescuerID
+0,Cat,3,Tabby,None,Male,Black,White,None,Small,Short,No,No,No,Healthy,1,100,Selangor,7684150
+1,Cat,1,Domestic Medium Hair,None,Male,Black,Brown,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,163037
+2,Dog,1,Mixed Breed,None,Male,Brown,White,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,4836523
+3,Dog,4,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,150,Kuala Lumpur,425005
+4,Dog,1,Mixed Breed,None,Male,Black,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,8745727
+5,Cat,3,Domestic Short Hair,None,Female,Cream,Gray,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,704989
+6,Cat,12,Domestic Long Hair,Domestic Long Hair,Male,Black,None,None,Medium,Long,No,No,Not Sure,Healthy,1,300,Selangor,1104148
+7,Dog,0,Mixed Breed,None,Female,Black,Brown,White,Medium,Short,No,No,No,Healthy,6,0,Selangor,9093074
+8,Cat,2,Domestic Medium Hair,None,Female,Gray,None,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,6389855
+9,Cat,12,Domestic Medium Hair,None,Female,Black,White,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,8419317
+10,Dog,2,Mixed Breed,None,Male,Black,Brown,White,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,8072151
+11,Cat,3,Domestic Long Hair,None,Female,Black,Brown,Cream,Large,Long,Yes,Yes,No,Healthy,1,50,Selangor,5267328
+12,Dog,2,Mixed Breed,None,Male,Brown,Cream,Gray,Medium,Long,Yes,Yes,No,Healthy,1,0,Selangor,3378265
+13,Cat,2,Domestic Medium Hair,None,Mixed,Black,Gray,White,Small,Medium,No,No,Not Sure,Healthy,7,0,Selangor,2817431
+14,Dog,3,Mixed Breed,None,Female,Brown,Cream,White,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,8625583
+15,Dog,78,Terrier,Shih Tzu,Male,Black,White,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,9251671
+16,Cat,6,Domestic Short Hair,None,Female,Brown,None,None,Small,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,9092461
+17,Dog,8,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Short,No,Yes,Yes,Healthy,1,10,Perak,1190873
+18,Dog,2,Mixed Breed,None,Female,Black,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,1236945
+19,Cat,1,Domestic Short Hair,None,Mixed,Black,Brown,White,Small,Short,No,No,No,Healthy,5,0,Selangor,7677135
+20,Dog,12,Mixed Breed,None,Female,Brown,White,None,Medium,Medium,No,Yes,Yes,Healthy,1,0,Selangor,3711236
+21,Dog,3,Mixed Breed,None,Female,Gray,None,None,Medium,Short,No,Yes,No,Healthy,3,0,Selangor,4424390
+22,Cat,0,Greyhound,None,Mixed,Golden,Gray,White,Medium,Medium,No,No,Not Sure,Healthy,10,0,Kuala Lumpur,2479762
+23,Dog,10,Mixed Breed,Hound,Female,Black,Brown,White,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,3098861
+24,Cat,3,Domestic Short Hair,None,Male,Brown,White,None,Small,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,230781
+25,Cat,36,Persian,British Shorthair,Male,Golden,None,None,Large,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,6315648
+26,Cat,2,Persian,Domestic Medium Hair,Male,Golden,None,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,4825253
+27,Cat,1,Domestic Short Hair,None,Female,Black,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,8756299
+28,Dog,14,Rottweiler,None,Male,Black,Brown,None,Large,Short,Yes,Yes,No,Healthy,1,1,Selangor,5526647
+29,Cat,1,Domestic Short Hair,None,Female,Brown,White,None,Small,Short,No,Yes,No,Healthy,1,0,Pulau Pinang,835213
+30,Dog,4,Shih Tzu,Terrier,Mixed,Brown,White,None,Small,Medium,Yes,Yes,Yes,Healthy,2,0,Selangor,5005413
+31,Cat,1,Domestic Short Hair,None,Male,Black,None,None,Small,Short,No,No,No,Healthy,1,0,Terengganu,8849343
+32,Dog,24,Mixed Breed,None,Male,Cream,White,None,Medium,Short,Yes,Yes,No,Healthy,5,0,Selangor,4569217
+33,Cat,4,Domestic Short Hair,None,Female,Black,Gray,White,Small,Short,No,No,No,Healthy,2,0,Selangor,2216849
+34,Cat,3,Domestic Short Hair,None,Female,Black,White,None,Small,Short,Yes,No,No,Healthy,1,1,Pulau Pinang,1468290
+35,Cat,12,Domestic Long Hair,None,Female,Gray,None,None,Medium,Long,No,No,No,Healthy,1,0,Selangor,6809934
+36,Cat,24,Domestic Medium Hair,Siamese,Female,Black,Yellow,None,Medium,Medium,Yes,Yes,Not Sure,Healthy,3,0,Selangor,7435206
+37,Cat,2,Domestic Medium Hair,None,Female,Brown,None,None,Small,Medium,No,No,No,Healthy,1,0,Selangor,654616
+38,Dog,12,Mixed Breed,None,Male,Black,None,None,Medium,Short,No,No,No,Healthy,1,0,Johor,2703532
+39,Dog,12,Mixed Breed,None,Male,Cream,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,2891406
+40,Cat,2,Domestic Medium Hair,Domestic Short Hair,Female,White,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,2004838
+41,Cat,1,Domestic Short Hair,None,Mixed,Black,Brown,White,Small,Short,No,No,No,Healthy,3,0,Selangor,6891174
+42,Cat,24,Siamese,Persian,Female,White,None,None,Medium,Long,Not Sure,Not Sure,Not Sure,Minor Injury,6,0,Selangor,4717662
+43,Dog,5,Jack Russell Terrier,Mixed Breed,Male,White,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,8764896
+44,Dog,12,Mixed Breed,None,Male,Brown,White,None,Medium,Medium,No,Yes,Yes,Healthy,1,0,Johor,7863189
+45,Dog,4,Mixed Breed,None,Male,Black,White,None,Medium,Short,No,No,No,Healthy,2,0,Selangor,919269
+46,Cat,5,Domestic Medium Hair,None,Male,Yellow,White,None,Small,Long,Yes,Yes,No,Healthy,1,0,Selangor,6707409
+47,Dog,72,Mixed Breed,None,Female,Brown,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,6348611
+48,Dog,1,Mixed Breed,None,Mixed,Black,Brown,None,Medium,Short,Not Sure,Not Sure,No,Healthy,9,0,Selangor,7823502
+49,Cat,60,Domestic Long Hair,None,Male,Black,Brown,White,Large,Long,Yes,Yes,Yes,Healthy,1,0,Selangor,3606931
+50,Dog,1,Mixed Breed,Labrador Retriever,Female,Black,None,None,Medium,Medium,No,Yes,Yes,Healthy,2,0,Selangor,2172418
+51,Cat,6,Domestic Short Hair,None,Male,Black,Brown,White,Medium,Short,Yes,Yes,Yes,Healthy,1,100,Kuala Lumpur,5972321
+52,Dog,2,Mixed Breed,None,Male,Brown,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,6921732
+53,Dog,12,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,2,0,Selangor,8543656
+54,Dog,3,Mixed Breed,None,Female,Brown,White,None,Small,Short,Not Sure,Not Sure,Not Sure,Minor Injury,1,0,Selangor,2259366
+55,Cat,3,Domestic Medium Hair,None,Mixed,Yellow,Gray,White,Small,Medium,Yes,Yes,No,Healthy,2,0,Kuala Lumpur,3725972
+56,Cat,5,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,No,Yes,No,Healthy,1,30,Selangor,9861932
+57,Dog,24,Mixed Breed,None,Female,Cream,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,4857475
+58,Dog,4,Mixed Breed,None,Male,Cream,None,None,Large,Medium,No,No,No,Healthy,1,0,Selangor,955967
+59,Cat,2,American Shorthair,None,Mixed,Black,Gray,White,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,6,0,Kuala Lumpur,8439502
+60,Cat,1,Domestic Short Hair,None,Female,Yellow,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,1796347
+61,Dog,9,Mixed Breed,None,Male,Brown,Cream,None,Medium,Short,Yes,Yes,Not Sure,Healthy,1,0,Pulau Pinang,2634608
+62,Dog,60,Mixed Breed,None,Female,Brown,Cream,None,Medium,Short,No,No,Yes,Healthy,1,0,Selangor,5494350
+63,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Medium,No,No,No,Healthy,1,0,Pulau Pinang,4329164
+64,Dog,2,Spitz,Mixed Breed,Mixed,Black,Golden,White,Medium,Long,Yes,Yes,No,Healthy,7,0,Selangor,3412301
+65,Dog,48,Shih Tzu,None,Female,Brown,Cream,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,8706967
+66,Cat,3,Domestic Short Hair,None,Female,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Melaka,5252382
+67,Cat,4,Domestic Short Hair,None,Male,Black,Golden,None,Small,Short,No,Yes,No,Healthy,2,0,Kuala Lumpur,7788884
+68,Cat,9,Domestic Short Hair,None,Female,Brown,White,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,2966938
+69,Dog,62,Mixed Breed,None,Male,Black,Golden,Gray,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,3660505
+70,Dog,36,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,Yes,Healthy,5,0,Selangor,4084067
+71,Dog,1,Mixed Breed,Mixed Breed,Female,Black,Brown,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,7630638
+72,Dog,2,Labrador Retriever,Jack Russell Terrier,Male,Black,Brown,White,Small,Short,Yes,Not Sure,No,Healthy,1,0,Kuala Lumpur,5422507
+73,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Small,Short,Yes,Yes,No,Healthy,1,0,Selangor,3605702
+74,Dog,1,Pit Bull Terrier,Finnish Spitz,Mixed,Black,Brown,White,Medium,Medium,No,No,No,Healthy,9,100,Pahang,57672
+75,Dog,2,Mixed Breed,None,Female,Brown,Cream,None,Medium,Short,No,Yes,No,Healthy,1,0,Johor,7040611
+76,Dog,2,Mixed Breed,None,Female,Black,None,None,Large,Short,Yes,Yes,No,Healthy,2,0,Selangor,4835487
+77,Dog,12,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,2092410
+78,Dog,2,Mixed Breed,Mixed Breed,Male,Brown,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,459257
+79,Dog,1,Mixed Breed,None,Female,Brown,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,898837
+80,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,No,No,Healthy,1,0,Pulau Pinang,1520030
+81,Dog,3,Silky Terrier,None,Male,Black,Brown,None,Small,Long,Yes,Yes,Not Sure,Healthy,1,750,Selangor,2356058
+82,Dog,3,Mixed Breed,None,Male,Black,White,None,Medium,Medium,No,Yes,No,Healthy,1,0,Kedah,1741469
+83,Dog,3,Mixed Breed,Labrador Retriever,Male,Cream,None,None,Medium,Medium,Not Sure,Not Sure,No,Healthy,1,0,Selangor,889005
+84,Cat,6,Domestic Medium Hair,None,Female,Cream,White,None,Medium,Medium,No,Yes,No,Healthy,1,50,Selangor,1836579
+85,Dog,1,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,No,No,No,Healthy,2,0,Selangor,4868657
+86,Cat,47,Bombay,Persian,Female,Black,Brown,None,Medium,Long,No,No,No,Healthy,1,0,Selangor,4729267
+87,Dog,2,Rottweiler,Mixed Breed,Male,Black,Brown,None,Large,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,2052000
+88,Dog,12,Mixed Breed,None,Female,Cream,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Perak,7288
+89,Dog,2,Mixed Breed,Dalmatian,Male,Black,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,1482354
+90,Dog,1,Mixed Breed,None,Male,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Perak,2037372
+91,Cat,1,Domestic Short Hair,Domestic Short Hair,Mixed,Brown,Golden,White,Small,Medium,No,No,No,Healthy,2,0,Selangor,7903346
+92,Dog,1,Mixed Breed,Mixed Breed,Mixed,Brown,White,None,Medium,Short,No,No,No,Healthy,5,0,Selangor,4618479
+93,Cat,24,Domestic Short Hair,None,Male,Yellow,None,None,Large,Short,No,No,No,Minor Injury,1,0,Melaka,9051146
+94,Cat,24,Domestic Short Hair,None,Female,Brown,Yellow,None,Medium,Short,No,No,Yes,Healthy,1,0,Selangor,6728553
+95,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Pulau Pinang,6880135
+96,Cat,19,Persian,None,Female,Black,Gray,None,Large,Long,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,4811809
+97,Dog,4,Silky Terrier,Pekingese,Female,Brown,None,None,Small,Long,Not Sure,Yes,Yes,Healthy,1,0,Kuala Lumpur,1970515
+98,Dog,24,Mixed Breed,None,Male,Brown,White,None,Medium,Short,No,No,No,Healthy,1,0,Johor,8094179
+99,Cat,3,Domestic Medium Hair,None,Male,Black,White,None,Medium,Medium,Not Sure,Not Sure,No,Healthy,1,0,Selangor,7092284
+100,Cat,1,Domestic Long Hair,None,Mixed,Cream,Gray,None,Small,Medium,No,No,No,Healthy,2,0,Kuala Lumpur,1021593
+101,Dog,24,Husky,Mixed Breed,Female,Black,Gray,White,Medium,Medium,Not Sure,Not Sure,Yes,Healthy,1,0,Selangor,5286826
+102,Dog,60,Schnauzer,None,Male,Gray,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,8941468
+103,Dog,1,Mixed Breed,Mixed Breed,Female,Black,Brown,White,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,393704
+104,Cat,3,Domestic Short Hair,None,Female,Brown,Golden,None,Small,Short,Yes,Yes,No,Healthy,1,0,Selangor,5823635
+105,Cat,2,Domestic Medium Hair,None,Male,Golden,None,None,Small,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,4722873
+106,Cat,1,Domestic Short Hair,Domestic Short Hair,Mixed,Black,White,None,Medium,Short,Yes,Yes,No,Healthy,2,1,Kuala Lumpur,771475
+107,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,5973261
+108,Cat,2,Domestic Short Hair,None,Female,Gray,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,4759290
+109,Dog,3,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,4998577
+110,Dog,2,Mixed Breed,Mixed Breed,Female,Black,Yellow,White,Large,Short,No,No,No,Healthy,6,0,Pulau Pinang,112758
+111,Cat,12,Tabby,None,Female,Golden,Gray,White,Medium,Medium,Yes,No,Yes,Healthy,2,0,Melaka,3462441
+112,Cat,4,Domestic Short Hair,Tuxedo,Female,Black,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,5790166
+113,Dog,120,Mixed Breed,None,Male,Black,Brown,White,Large,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,2280777
+114,Dog,3,Mixed Breed,None,Female,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,2800758
+115,Cat,1,Domestic Medium Hair,None,Mixed,Brown,Cream,White,Small,Medium,No,No,No,Healthy,4,0,Selangor,6614199
+116,Dog,36,Golden Retriever,None,Female,Brown,Golden,Yellow,Large,Medium,Yes,Yes,No,Healthy,1,0,Selangor,4306828
+117,Cat,3,Domestic Short Hair,None,Female,Black,Brown,White,Small,Short,No,Yes,No,Healthy,1,0,Selangor,7573701
+118,Cat,60,Persian,None,Male,Golden,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,9224001
+119,Cat,1,Domestic Short Hair,None,Female,Brown,Cream,White,Medium,Short,No,Yes,Not Sure,Healthy,1,0,Selangor,120868
+120,Dog,3,Mixed Breed,None,Mixed,Black,Brown,White,Medium,Medium,Yes,Yes,No,Healthy,3,150,Selangor,9938277
+121,Dog,36,Rottweiler,None,Male,Black,Cream,None,Large,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,2498980
+122,Dog,12,Siberian Husky,None,Male,Black,Gray,White,Medium,Medium,Yes,No,No,Healthy,1,400,Negeri Sembilan,9280870
+123,Cat,1,Domestic Short Hair,None,Mixed,Black,Gray,White,Small,Short,No,Not Sure,No,Healthy,4,0,Kuala Lumpur,7559612
+124,Dog,0,Mixed Breed,Mixed Breed,Mixed,Black,Brown,Golden,Large,Short,Not Sure,Not Sure,Not Sure,Healthy,2,0,Selangor,4139571
+125,Cat,1,Domestic Medium Hair,None,Male,Black,White,None,Small,Medium,No,No,No,Healthy,1,0,Selangor,1174335
+126,Dog,5,Collie,Basenji,Male,Cream,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,2552666
+127,Dog,24,German Shepherd Dog,Mixed Breed,Female,Black,Brown,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,5918393
+128,Dog,3,Mixed Breed,None,Male,Brown,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,4531952
+129,Dog,3,Mixed Breed,None,Female,Brown,None,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,3,0,Negeri Sembilan,4660838
+130,Dog,4,Mixed Breed,None,Female,Black,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Pahang,8999664
+131,Cat,3,Domestic Short Hair,None,Mixed,Black,White,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,2,0,Selangor,485386
+132,Cat,1,Domestic Medium Hair,None,Female,Black,White,None,Small,Medium,No,No,No,Healthy,5,0,Negeri Sembilan,9931163
+133,Cat,8,Siamese,Domestic Short Hair,Male,Brown,Cream,None,Medium,Short,Yes,Yes,No,Healthy,1,50,Selangor,3677770
+134,Cat,2,Tortoiseshell,Domestic Short Hair,Mixed,Black,Brown,None,Medium,Short,No,No,No,Healthy,2,0,Negeri Sembilan,7069108
+135,Dog,32,Mixed Breed,Mixed Breed,Mixed,Black,Yellow,Cream,Medium,Short,Yes,Yes,Yes,Healthy,2,0,Selangor,1680426
+136,Dog,3,Doberman Pinscher,Mixed Breed,Mixed,Black,Brown,None,Large,Short,Yes,Yes,No,Healthy,3,0,Selangor,3032403
+137,Cat,12,Domestic Medium Hair,None,Male,Black,None,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,788301
+138,Dog,4,Mixed Breed,Bluetick Coonhound,Female,Black,Brown,White,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,3564643
+139,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,No,Not Sure,No,Healthy,1,0,Selangor,7232886
+140,Cat,7,Calico,Tortoiseshell,Female,Black,Yellow,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,7378863
+141,Cat,5,Domestic Long Hair,None,Male,Yellow,None,None,Medium,Long,No,Yes,No,Healthy,1,100,Kuala Lumpur,9865867
+142,Cat,2,Domestic Medium Hair,None,Female,Gray,White,None,Medium,Medium,Yes,Yes,No,Healthy,2,0,Kuala Lumpur,9723653
+143,Dog,60,American Staffordshire Terrier,None,Female,Black,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,3312913
+144,Cat,4,Domestic Medium Hair,Bengal,Mixed,Black,Golden,White,Medium,Medium,No,No,No,Healthy,5,0,Kuala Lumpur,7233803
+145,Dog,120,Beagle,Schnauzer,Male,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,2,0,Selangor,4470292
+146,Dog,12,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,7124014
+147,Cat,17,Domestic Short Hair,None,Female,Black,Brown,White,Small,Short,Not Sure,Not Sure,Yes,Healthy,1,0,Selangor,8855119
+148,Cat,2,Domestic Short Hair,None,Mixed,Yellow,Cream,White,Medium,Short,No,No,No,Healthy,2,0,Kuala Lumpur,7183592
+149,Dog,48,Mixed Breed,Mixed Breed,Male,Black,Brown,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,9813628
+150,Dog,4,Mixed Breed,None,Female,Black,White,None,Medium,Short,Yes,No,No,Healthy,1,0,Negeri Sembilan,9125954
+151,Cat,12,Turkish Van,None,Female,Golden,Cream,None,Medium,Medium,Not Sure,Yes,Yes,Healthy,1,0,Selangor,192753
+152,Cat,12,Persian,Siamese,Male,Black,White,None,Large,Long,No,Yes,No,Healthy,1,0,Selangor,9000994
+153,Cat,3,Domestic Short Hair,None,Female,Gray,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,1782593
+154,Dog,1,Mixed Breed,None,Mixed,Black,Brown,Golden,Medium,Medium,No,No,No,Healthy,3,0,Selangor,3328073
+155,Dog,36,Doberman Pinscher,None,Female,Black,Brown,None,Large,Medium,Not Sure,Not Sure,Not Sure,Minor Injury,1,0,Kuala Lumpur,7562908
+156,Dog,12,Mixed Breed,None,Female,Cream,White,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,6455465
+157,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,Yes,Yes,No,Healthy,1,80,Pulau Pinang,1464095
+158,Dog,36,Doberman Pinscher,None,Male,Black,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Perak,5384962
+159,Cat,1,Domestic Medium Hair,None,Mixed,Black,Gray,White,Medium,Medium,No,No,No,Healthy,3,0,Kuala Lumpur,6495692
+160,Cat,1,Oriental Short Hair,None,Female,Yellow,White,None,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,2812996
+161,Dog,0,Mixed Breed,None,Female,Black,White,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,5,0,Kuala Lumpur,9362556
+162,Dog,2,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,8769513
+163,Dog,2,Mixed Breed,None,Mixed,Black,Yellow,White,Medium,Short,Yes,Yes,No,Healthy,3,30,Selangor,7025755
+164,Dog,2,Mixed Breed,Mixed Breed,Mixed,Brown,None,None,Medium,Medium,No,No,No,Healthy,3,0,Selangor,280116
+165,Cat,36,Tuxedo,None,Mixed,Black,Golden,Gray,Medium,Medium,Yes,Yes,Yes,Healthy,5,0,Selangor,7767506
+166,Dog,3,Mixed Breed,None,Mixed,Brown,Yellow,Cream,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,5,0,Pulau Pinang,7240901
+167,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,5887319
+168,Dog,1,Mixed Breed,None,Female,Brown,Cream,White,Large,Short,Not Sure,Yes,Not Sure,Healthy,1,0,Kuala Lumpur,5497884
+169,Cat,2,Domestic Short Hair,None,Female,Black,Cream,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,5520149
+170,Cat,2,Siamese,Burmese,Male,Brown,Cream,None,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,2258181
+171,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,80,Selangor,1438780
+172,Cat,3,Domestic Short Hair,None,Male,Yellow,None,None,Medium,Short,Not Sure,Yes,No,Healthy,1,0,Kuala Lumpur,1576647
+173,Dog,17,Mixed Breed,None,Male,Black,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,150,Kuala Lumpur,5252609
+174,Dog,2,Mixed Breed,None,Mixed,Black,Brown,White,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,8,0,Kuala Lumpur,9140541
+175,Cat,48,Tabby,None,Male,Black,Brown,White,Large,Short,Yes,Yes,No,Healthy,1,20,Selangor,3263814
+176,Cat,1,Domestic Short Hair,None,Male,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,1653516
+177,Cat,5,Domestic Short Hair,Domestic Long Hair,Female,Black,White,None,Medium,Medium,No,No,No,Healthy,1,150,Selangor,7975684
+178,Dog,8,Mixed Breed,Labrador Retriever,Male,Black,Brown,None,Medium,Short,Not Sure,Not Sure,Yes,Healthy,1,0,Selangor,9812885
+179,Dog,4,Mixed Breed,Mixed Breed,Female,White,None,None,Small,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,8799438
+180,Dog,3,Mixed Breed,None,Male,Black,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,1174575
+181,Cat,72,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,9866114
+182,Cat,12,Domestic Short Hair,Calico,Female,Black,Yellow,White,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,5,0,Kedah,5770840
+183,Dog,12,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,No,Yes,No,Healthy,1,0,Pulau Pinang,7332997
+184,Cat,12,Domestic Short Hair,Domestic Short Hair,Male,Golden,White,None,Medium,Short,Yes,Yes,Yes,Healthy,2,0,Kuala Lumpur,7606134
+185,Dog,22,Beagle,None,Male,Brown,Cream,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,6781057
+186,Dog,36,Mixed Breed,None,Male,Golden,None,None,Medium,Medium,Not Sure,Not Sure,No,Healthy,1,0,Selangor,8072666
+187,Dog,2,Mixed Breed,None,Male,Cream,None,None,Medium,Medium,Not Sure,Not Sure,No,Healthy,1,0,Selangor,4758971
+188,Cat,4,Tabby,None,Female,Black,Brown,None,Medium,Short,Not Sure,Not Sure,Yes,Healthy,5,0,Johor,4085678
+189,Dog,12,Mixed Breed,None,Female,White,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,6584634
+190,Dog,7,Mixed Breed,None,Male,Black,White,None,Small,Short,No,No,No,Healthy,1,50,Selangor,8976368
+191,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,1032236
+192,Dog,3,Mixed Breed,None,Female,Brown,White,None,Small,Short,No,Yes,Not Sure,Healthy,3,0,Selangor,9730479
+193,Dog,24,Mixed Breed,None,Female,Brown,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,681663
+194,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Long,No,No,No,Healthy,1,0,Selangor,2210837
+195,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Negeri Sembilan,2277283
+196,Dog,3,Mixed Breed,None,Male,Golden,None,None,Large,Short,Yes,Yes,No,Healthy,2,0,Selangor,2806720
+197,Cat,5,Domestic Short Hair,None,Male,Black,White,None,Small,Short,Yes,No,Not Sure,Healthy,1,0,Kuala Lumpur,7603016
+198,Dog,16,Shih Tzu,Maltese,Female,Cream,White,None,Small,Short,Yes,Yes,Not Sure,Healthy,1,0,Kuala Lumpur,2920679
+199,Cat,2,Domestic Short Hair,None,Male,Golden,Cream,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,5880175
+200,Cat,2,Domestic Medium Hair,None,Male,Cream,None,None,Small,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Pulau Pinang,6525650
+201,Dog,7,Shih Tzu,Pomeranian,Male,Brown,None,None,Medium,Short,Yes,Yes,Not Sure,Healthy,1,0,Selangor,3523427
+202,Cat,13,Domestic Short Hair,None,Female,Brown,Golden,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,6020369
+203,Dog,3,Mixed Breed,None,Male,Black,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,9661719
+204,Dog,12,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,5394726
+205,Cat,3,Domestic Short Hair,None,Male,Black,White,None,Small,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,2928230
+206,Dog,2,Mixed Breed,Mixed Breed,Female,Black,Brown,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,4352207
+207,Cat,10,Domestic Short Hair,None,Female,Yellow,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,640341
+208,Dog,2,Mixed Breed,None,Female,Yellow,Cream,White,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,6196531
+209,Dog,2,Mixed Breed,None,Male,Black,Brown,Cream,Medium,Short,No,No,No,Healthy,1,0,Selangor,1870063
+210,Cat,4,Domestic Short Hair,None,Female,Black,Brown,Gray,Large,Short,No,No,No,Healthy,1,0,Kuala Lumpur,6703985
+211,Dog,60,Golden Retriever,Mixed Breed,Male,Brown,Yellow,White,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,2080284
+212,Cat,2,Domestic Short Hair,None,Female,Black,Yellow,White,Medium,Short,No,No,No,Healthy,6,30,Selangor,5428946
+213,Cat,12,Domestic Short Hair,None,Female,Brown,Golden,Cream,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,6387780
+214,Cat,2,Domestic Short Hair,Calico,Female,Black,Yellow,White,Small,Short,No,No,No,Healthy,1,0,Selangor,8132198
+215,Cat,0,Siamese,Tabby,Mixed,Brown,Cream,None,Medium,Short,No,No,No,Minor Injury,3,0,Selangor,2337594
+216,Dog,2,Mixed Breed,Labrador Retriever,Mixed,Cream,White,None,Large,Short,Yes,Yes,No,Healthy,3,0,Selangor,1098830
+217,Cat,6,Domestic Short Hair,None,Female,Golden,White,None,Medium,Short,No,Yes,Yes,Healthy,1,0,Selangor,418153
+218,Dog,3,Mixed Breed,None,Female,Black,Brown,None,Large,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,455614
+219,Dog,1,Mixed Breed,None,Female,Black,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,6816054
+220,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Small,Short,No,No,No,Healthy,4,0,Pulau Pinang,7729213
+221,Cat,3,Domestic Medium Hair,None,Male,Yellow,White,None,Medium,Medium,No,No,No,Healthy,1,50,Selangor,3276161
+222,Dog,19,Mixed Breed,None,Female,Black,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,80,Selangor,6054457
+223,Cat,11,Domestic Short Hair,None,Female,Black,Yellow,White,Medium,Short,Yes,Yes,Yes,Healthy,1,50,Selangor,2407253
+224,Dog,37,Mixed Breed,None,Female,Brown,Golden,White,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,5840494
+225,Cat,4,Ragdoll,Persian,Female,Black,White,None,Small,Long,No,No,Not Sure,Healthy,1,250,Selangor,4232816
+226,Dog,3,Mixed Breed,Labrador Retriever,Male,Cream,None,None,Medium,Short,No,Yes,Yes,Healthy,1,0,Kuala Lumpur,6163703
+227,Dog,6,Mixed Breed,None,Male,Black,Brown,Cream,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,8440785
+228,Cat,1,Domestic Short Hair,None,Female,Golden,Cream,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,9482579
+229,Dog,5,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,9944966
+230,Dog,1,Mixed Breed,None,Mixed,Black,None,None,Medium,Short,No,No,No,Healthy,6,0,Selangor,9695242
+231,Cat,7,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,3252845
+232,Dog,4,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,No,Yes,No,Healthy,1,1,Kuala Lumpur,9105785
+233,Cat,1,Domestic Short Hair,None,Female,Black,Brown,Cream,Medium,Short,No,No,No,Healthy,1,0,Selangor,6629680
+234,Dog,48,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,4377866
+235,Dog,3,Cocker Spaniel,Akbash,Female,Brown,None,None,Small,Short,No,No,No,Healthy,1,0,Perak,6977358
+236,Dog,2,Mixed Breed,None,Male,Black,Brown,White,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,6528189
+237,Cat,4,Domestic Short Hair,None,Male,Yellow,White,None,Small,Short,Yes,Yes,Not Sure,Healthy,1,0,Kuala Lumpur,8293403
+238,Dog,22,Shih Tzu,None,Female,Cream,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,6634055
+239,Dog,60,Poodle,Poodle,Female,Brown,None,None,Small,Long,Yes,Yes,Yes,Healthy,1,0,Selangor,567159
+240,Dog,1,Terrier,Shih Tzu,Mixed,Black,Cream,White,Medium,Medium,No,No,No,Healthy,4,0,Selangor,5654013
+241,Dog,3,Black Labrador Retriever,Mixed Breed,Male,Black,None,None,Medium,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,292857
+242,Cat,3,Domestic Short Hair,Domestic Medium Hair,Female,Black,Yellow,White,Medium,Short,No,Yes,No,Healthy,4,0,Selangor,8411736
+243,Cat,4,Domestic Medium Hair,None,Female,Cream,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,475792
+244,Cat,13,Persian,Domestic Medium Hair,Female,Black,Gray,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,7560459
+245,Cat,1,Domestic Short Hair,None,Male,Black,White,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Pulau Pinang,1565706
+246,Dog,5,Labrador Retriever,None,Female,Black,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,1562357
+247,Dog,2,Mixed Breed,None,Female,Black,White,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,2739967
+248,Cat,1,Domestic Short Hair,None,Mixed,Black,White,None,Medium,Medium,No,No,No,Healthy,3,0,Kuala Lumpur,4741712
+249,Dog,2,Jack Russell Terrier,Mixed Breed,Female,Brown,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,446945
+250,Dog,36,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,940644
+251,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,4466562
+252,Dog,2,Mixed Breed,Mixed Breed,Female,Black,Brown,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,4403977
+253,Cat,2,Domestic Short Hair,None,Female,Black,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,8660202
+254,Cat,8,Tabby,None,Male,Golden,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,2031522
+255,Cat,2,Domestic Medium Hair,None,Female,Black,Gray,White,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,2410227
+256,Cat,9,Tabby,None,Female,Brown,Cream,Gray,Small,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,7551376
+257,Cat,6,Domestic Short Hair,Tabby,Female,Gray,None,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Johor,7626834
+258,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,No,No,No,Healthy,3,0,Johor,3709564
+259,Dog,18,Beagle,Mixed Breed,Female,Brown,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,8909217
+260,Dog,14,Mixed Breed,None,Male,Brown,None,None,Large,Medium,Yes,Yes,Yes,Healthy,1,0,Johor,1396625
+261,Cat,3,Domestic Short Hair,None,Male,Black,White,None,Small,Short,No,No,No,Healthy,2,0,Kedah,376363
+262,Cat,2,Domestic Short Hair,None,Male,White,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,982749
+263,Dog,1,Mixed Breed,Mixed Breed,Mixed,Black,Brown,White,Large,Short,No,Yes,No,Healthy,20,50,Negeri Sembilan,2490587
+264,Cat,12,Bengal,None,Male,Black,Gray,White,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,7153713
+265,Cat,12,Domestic Short Hair,Tiger,Female,Black,Brown,None,Medium,Short,No,Not Sure,Yes,Healthy,1,0,Selangor,3318795
+266,Dog,1,Collie,Mixed Breed,Female,Black,Cream,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,6965164
+267,Cat,9,Domestic Short Hair,None,Male,Black,Gray,White,Medium,Short,Yes,Yes,Yes,Healthy,2,0,Selangor,3918356
+268,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,5619694
+269,Cat,2,Domestic Medium Hair,Domestic Medium Hair,Mixed,Gray,White,None,Small,Medium,No,No,No,Healthy,4,0,Selangor,3805352
+270,Cat,2,Domestic Short Hair,None,Female,Brown,Yellow,Cream,Medium,Short,No,No,No,Healthy,3,0,Kuala Lumpur,2887150
+271,Dog,3,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,2083631
+272,Dog,3,Mixed Breed,Husky,Male,Cream,White,None,Medium,Medium,No,No,No,Healthy,1,0,Pulau Pinang,9899128
+273,Cat,6,Domestic Short Hair,None,Female,Yellow,None,None,Small,Short,Yes,Yes,Yes,Healthy,1,200,Johor,4606614
+274,Cat,3,Siamese,None,Male,Black,White,None,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,8422998
+275,Dog,24,Mixed Breed,Mixed Breed,Mixed,Black,Brown,None,Medium,Short,No,No,Yes,Healthy,2,0,Selangor,2384844
+276,Dog,3,Mixed Breed,Mixed Breed,Male,Brown,None,None,Large,Short,No,No,Not Sure,Healthy,1,0,Kuala Lumpur,5510411
+277,Dog,24,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Minor Injury,1,20,Selangor,6137008
+278,Dog,1,Mixed Breed,None,Male,Brown,White,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,4738770
+279,Dog,2,Mixed Breed,German Shepherd Dog,Female,Black,Brown,None,Medium,Medium,No,Yes,No,Healthy,1,250,Kuala Lumpur,9683468
+280,Dog,2,Mixed Breed,None,Male,Golden,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,6328340
+281,Dog,7,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,2550523
+282,Cat,3,Domestic Long Hair,None,Male,Black,Golden,None,Small,Long,No,No,No,Healthy,1,150,Selangor,2279680
+283,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Perak,7749989
+284,Dog,1,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,4790462
+285,Dog,55,Beagle,None,Male,Black,Yellow,White,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,984080
+286,Dog,2,Shar Pei,Mixed Breed,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,9777654
+287,Dog,3,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,9967262
+288,Dog,36,Spitz,None,Female,Golden,Cream,None,Medium,Medium,Not Sure,Not Sure,Yes,Healthy,1,0,Selangor,2830993
+289,Cat,1,Domestic Medium Hair,None,Female,Black,Yellow,White,Medium,Long,No,Yes,No,Healthy,1,0,Selangor,3931127
+290,Cat,6,Siamese,None,Female,Brown,Cream,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,1171421
+291,Cat,6,Domestic Medium Hair,Domestic Short Hair,Female,Brown,Cream,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,1229470
+292,Cat,4,Bengal,Domestic Short Hair,Male,Brown,None,None,Medium,Medium,No,No,No,Minor Injury,1,0,Selangor,5121740
+293,Dog,2,Mixed Breed,Terrier,Female,Brown,White,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,3631393
+294,Dog,5,Mixed Breed,None,Female,Black,Brown,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,8181731
+295,Cat,20,Domestic Medium Hair,None,Male,Black,Gray,White,Large,Medium,No,Yes,No,Healthy,1,0,Selangor,26662
+296,Dog,2,Mixed Breed,None,Female,Brown,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,4788119
+297,Dog,7,Mixed Breed,None,Male,Brown,White,None,Medium,Medium,Yes,Not Sure,Not Sure,Healthy,1,0,Selangor,8600602
+298,Cat,1,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,8667122
+299,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,Yes,Yes,No,Healthy,2,0,Perak,1536057
+300,Dog,1,Mixed Breed,Mixed Breed,Female,Black,None,None,Medium,Short,No,No,No,Healthy,1,0,Negeri Sembilan,7004605
+301,Cat,28,Birman,Domestic Long Hair,Male,Black,None,None,Large,Long,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,5290783
+302,Dog,24,Belgian Shepherd Malinois,Mixed Breed,Female,Black,Brown,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,250,Selangor,4684479
+303,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Medium,Short,No,Yes,No,Healthy,2,0,Pulau Pinang,6399506
+304,Dog,12,Mixed Breed,None,Male,Brown,Golden,White,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,7803544
+305,Cat,4,Domestic Short Hair,None,Male,Black,Brown,Yellow,Medium,Short,No,No,No,Healthy,1,0,Selangor,4974172
+306,Dog,2,Mixed Breed,None,Female,Black,Golden,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,6940767
+307,Cat,2,Domestic Medium Hair,None,Male,Yellow,None,None,Small,Short,Yes,Yes,No,Healthy,1,0,Selangor,4258024
+308,Dog,1,Mixed Breed,None,Female,Black,None,None,Medium,Medium,No,No,No,Healthy,2,0,Johor,3331677
+309,Dog,1,Mixed Breed,None,Female,Black,Brown,White,Small,Short,No,No,No,Healthy,1,0,Selangor,3238054
+310,Dog,5,Beagle,None,Female,Black,Brown,White,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,300,Selangor,9204908
+311,Cat,22,Domestic Medium Hair,None,Female,Black,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Pulau Pinang,3342269
+312,Cat,36,Domestic Short Hair,None,Female,Black,Brown,White,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Negeri Sembilan,2048302
+313,Dog,36,Spitz,Terrier,Female,White,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,5972657
+314,Dog,8,Mixed Breed,None,Male,Yellow,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,4925116
+315,Dog,10,Mixed Breed,None,Female,White,None,None,Medium,Short,No,Yes,Yes,Healthy,1,0,Kuala Lumpur,3637999
+316,Dog,2,Mixed Breed,None,Female,Brown,Yellow,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,8600061
+317,Cat,2,Domestic Medium Hair,None,Male,Black,White,None,Small,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,7926101
+318,Dog,3,Mixed Breed,None,Male,Black,None,None,Medium,Short,Not Sure,Yes,Not Sure,Healthy,1,0,Selangor,8014731
+319,Dog,3,Mixed Breed,None,Female,Black,White,None,Medium,Short,No,No,No,Healthy,1,0,Pulau Pinang,4469269
+320,Cat,0,Domestic Short Hair,None,Mixed,Black,Brown,White,Medium,Short,Not Sure,Yes,Yes,Healthy,18,0,Selangor,5236340
+321,Dog,60,Shih Tzu,None,Female,Black,White,None,Small,Medium,Not Sure,Yes,Yes,Healthy,1,0,Selangor,4210225
+322,Dog,2,Mixed Breed,None,Male,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,7583386
+323,Dog,2,Mixed Breed,None,Mixed,Brown,Gray,White,Medium,Short,No,No,No,Healthy,6,0,Selangor,4196761
+324,Cat,12,Domestic Medium Hair,None,Male,Brown,White,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,8651520
+325,Dog,1,Mixed Breed,Mixed Breed,Female,Black,Brown,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,2292634
+326,Cat,2,Domestic Short Hair,None,Male,Golden,None,None,Large,Short,Not Sure,Not Sure,Not Sure,Healthy,2,0,Pulau Pinang,5072815
+327,Cat,2,Domestic Short Hair,None,Mixed,White,None,None,Medium,Short,No,Yes,No,Healthy,3,0,Johor,1320724
+328,Dog,1,Mixed Breed,None,Female,White,None,None,Medium,Medium,No,No,No,Healthy,1,0,Perak,4139024
+329,Dog,24,Mixed Breed,None,Female,White,None,None,Large,Short,Not Sure,Not Sure,Yes,Minor Injury,1,0,Pulau Pinang,4955773
+330,Dog,3,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,200,Selangor,905101
+331,Cat,2,Domestic Short Hair,Domestic Short Hair,Mixed,Black,Gray,White,Medium,Short,No,Yes,No,Healthy,4,0,Kuala Lumpur,4647202
+332,Dog,2,Mixed Breed,None,Male,Black,Brown,White,Medium,Short,No,No,No,Healthy,1,0,Selangor,9598936
+333,Cat,12,Domestic Medium Hair,None,Male,Black,None,None,Small,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,4558608
+334,Dog,12,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Pulau Pinang,2636337
+335,Dog,1,Mixed Breed,None,Male,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,5215027
+336,Cat,11,Domestic Short Hair,None,Female,Black,Yellow,White,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,4518394
+337,Dog,74,Shih Tzu,None,Male,Brown,White,None,Medium,Medium,Not Sure,Yes,Not Sure,Healthy,1,0,Selangor,8917688
+338,Dog,36,Terrier,Terrier,Female,Brown,Golden,Cream,Medium,Long,Yes,Yes,Yes,Healthy,1,0,Selangor,2611936
+339,Dog,3,Mixed Breed,Mixed Breed,Female,Brown,White,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,9645907
+340,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,5466341
+341,Dog,3,Mixed Breed,None,Female,Black,Brown,White,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,5717417
+342,Dog,48,Poodle,None,Male,White,None,None,Small,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,6230237
+343,Cat,3,Domestic Short Hair,None,Mixed,Brown,Cream,White,Small,Short,Not Sure,Yes,Yes,Healthy,7,60,Kuala Lumpur,8736503
+344,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,9117251
+345,Dog,36,Poodle,None,Male,Brown,None,None,Small,Medium,Not Sure,Not Sure,No,Healthy,1,0,Selangor,8352407
+346,Cat,3,Domestic Long Hair,None,Male,Black,White,None,Medium,Long,No,Yes,No,Healthy,1,0,Selangor,6079398
+347,Cat,4,Domestic Short Hair,None,Female,Black,Gray,White,Small,Short,No,No,No,Healthy,1,0,Selangor,9535640
+348,Dog,2,Mixed Breed,None,Mixed,Brown,White,None,Medium,Short,No,No,No,Healthy,5,0,Selangor,7206834
+349,Dog,1,Labrador Retriever,Mixed Breed,Male,Black,Brown,None,Medium,Short,No,Yes,No,Healthy,1,0,Pulau Pinang,7281072
+350,Dog,60,Schnauzer,None,Male,Black,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kedah,9425572
+351,Dog,2,Mixed Breed,Mixed Breed,Female,Black,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,9983280
+352,Dog,4,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,8664770
+353,Cat,3,Domestic Short Hair,Domestic Long Hair,Mixed,Black,Gray,White,Large,Medium,Yes,Yes,No,Healthy,4,0,Pulau Pinang,9683818
+354,Cat,2,Domestic Short Hair,None,Female,Black,Yellow,White,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,7630871
+355,Dog,3,Mixed Breed,None,Female,Golden,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Pulau Pinang,2469454
+356,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,No,No,No,Healthy,1,0,Perak,2573946
+357,Cat,1,Domestic Medium Hair,None,Female,White,None,None,Small,Medium,No,Yes,No,Healthy,1,0,Pahang,7183990
+358,Dog,18,Mixed Breed,Mixed Breed,Female,Black,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,6861540
+359,Cat,1,Domestic Long Hair,None,Mixed,Black,Golden,None,Small,Medium,No,No,No,Healthy,2,0,Selangor,8822451
+360,Cat,3,Domestic Short Hair,None,Male,Golden,None,None,Medium,Short,Yes,Yes,No,Healthy,1,20,Selangor,6914882
+361,Cat,6,Domestic Medium Hair,None,Male,Gray,White,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,120,Selangor,7545451
+362,Cat,6,Tabby,None,Mixed,Golden,Yellow,White,Large,Medium,Not Sure,Not Sure,Not Sure,Healthy,2,0,Selangor,2151839
+363,Dog,2,Mixed Breed,None,Male,Black,Brown,Cream,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,3760470
+364,Dog,24,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Johor,2445736
+365,Cat,6,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,9454816
+366,Dog,2,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,8022183
+367,Dog,48,Shih Tzu,None,Male,Black,None,None,Small,Medium,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,2671479
+368,Dog,2,Mixed Breed,None,Male,Brown,None,None,Medium,Short,No,No,No,Healthy,1,1,Johor,6676102
+369,Cat,3,Domestic Short Hair,None,Female,Gray,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Johor,7563205
+370,Cat,1,Domestic Short Hair,None,Mixed,Black,Yellow,White,Medium,Short,No,Yes,No,Healthy,4,0,Pahang,2352802
+371,Dog,53,Mixed Breed,Mixed Breed,Male,White,None,None,Medium,Medium,Yes,Not Sure,Not Sure,Healthy,1,0,Selangor,8906996
+372,Cat,1,American Shorthair,None,Male,Black,White,None,Small,Short,No,No,No,Healthy,1,0,Sabah,6379460
+373,Cat,7,Domestic Long Hair,None,Male,Black,White,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,5441145
+374,Cat,4,Domestic Short Hair,None,Female,Black,None,None,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,5750830
+375,Dog,1,Mixed Breed,Mixed Breed,Male,Brown,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,7217894
+376,Cat,1,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,5350717
+377,Dog,2,Mixed Breed,Mixed Breed,Mixed,Black,Brown,Cream,Small,Short,No,Yes,No,Healthy,2,0,Kuala Lumpur,7202772
+378,Dog,48,Mixed Breed,Great Dane,Male,Brown,None,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,4657968
+379,Dog,1,Mixed Breed,None,Mixed,Black,Cream,White,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,2,0,Pulau Pinang,4658052
+380,Cat,2,Bengal,Domestic Medium Hair,Female,Gray,White,None,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,9680761
+381,Dog,1,Doberman Pinscher,Spitz,Male,Black,Brown,None,Medium,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,5133192
+382,Dog,48,Shih Tzu,None,Mixed,Brown,Gray,White,Small,Long,Yes,Yes,No,Minor Injury,2,300,Johor,9785397
+383,Cat,1,Domestic Short Hair,None,Mixed,Black,Yellow,Gray,Small,Short,No,No,No,Healthy,4,0,Selangor,967212
+384,Cat,3,Domestic Short Hair,None,Female,Cream,Gray,White,Medium,Short,Yes,Yes,Yes,Healthy,1,100,Selangor,589877
+385,Dog,7,Belgian Shepherd Laekenois,Belgian Shepherd Laekenois,Female,Brown,None,None,Large,Medium,Yes,Yes,No,Healthy,1,0,Selangor,9402208
+386,Dog,3,Mixed Breed,None,Male,Black,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,3590919
+387,Dog,1,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,8531410
+388,Cat,3,Domestic Short Hair,None,Female,White,None,None,Small,Short,No,No,No,Healthy,1,0,Pulau Pinang,3542887
+389,Cat,3,Domestic Short Hair,None,Female,Black,Brown,Gray,Medium,Short,No,No,No,Healthy,1,0,Selangor,328917
+390,Dog,12,Mixed Breed,Golden Retriever,Male,Black,None,None,Medium,Medium,Not Sure,Not Sure,Yes,Healthy,1,150,Negeri Sembilan,8550671
+391,Dog,2,None,Belgian Shepherd Malinois,Female,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,6818765
+392,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Small,Short,No,No,No,Healthy,5,0,Selangor,3716090
+393,Dog,3,Jack Russell Terrier (Parson Russell Terrier),Mixed Breed,Female,Black,White,None,Small,Medium,Not Sure,Yes,No,Healthy,1,0,Selangor,8414845
+394,Dog,25,Schnauzer,None,Male,Gray,White,None,Medium,Long,Yes,Yes,No,Healthy,1,100,Selangor,3133462
+395,Cat,14,Domestic Short Hair,None,Female,Brown,None,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,9116790
+396,Dog,1,Mixed Breed,None,Mixed,Black,Brown,White,Large,Medium,No,Yes,No,Healthy,12,0,Selangor,4656269
+397,Dog,1,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,5605503
+398,Cat,1,Domestic Short Hair,None,Female,Brown,Gray,White,Small,Short,Not Sure,Not Sure,No,Healthy,1,30,Selangor,5343424
+399,Dog,10,Labrador Retriever,Golden Retriever,Female,Black,White,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,6800682
+400,Cat,7,Domestic Short Hair,None,Male,Gray,White,None,Medium,Short,No,Yes,No,Healthy,2,0,Selangor,7389314
+401,Cat,2,Domestic Short Hair,None,Female,Black,Yellow,None,Small,Short,No,No,No,Healthy,2,0,Selangor,4695613
+402,Dog,1,Mixed Breed,None,Female,Black,Golden,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,4461120
+403,Cat,12,Domestic Medium Hair,None,Female,Black,White,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,150,Selangor,6841811
+404,Dog,84,Golden Retriever,None,Male,Brown,Cream,None,Medium,Medium,Yes,Yes,Yes,Minor Injury,1,0,Selangor,788865
+405,Cat,3,Domestic Short Hair,None,Male,Golden,White,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,6232031
+406,Dog,6,Mixed Breed,None,Female,Black,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,1545625
+407,Cat,4,Domestic Short Hair,None,Male,Black,Golden,White,Small,Short,Yes,Yes,No,Healthy,2,40,Kuala Lumpur,7788555
+408,Dog,8,Mixed Breed,Mixed Breed,Male,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,1000014
+409,Cat,1,Domestic Short Hair,None,Female,Black,Brown,White,Medium,Short,No,No,No,Healthy,3,0,Kuala Lumpur,7058937
+410,Cat,1,Domestic Short Hair,Tortoiseshell,Female,Black,Brown,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,4870184
+411,Cat,18,Domestic Medium Hair,None,Female,Cream,White,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,8136472
+412,Cat,2,Domestic Short Hair,None,Female,Black,White,None,Small,Short,No,No,No,Healthy,1,0,Selangor,8210756
+413,Cat,36,Domestic Short Hair,None,Female,Black,Gray,White,Medium,Medium,No,No,Yes,Healthy,1,0,Kuala Lumpur,1596665
+414,Dog,2,Mixed Breed,None,Female,Brown,White,None,Medium,Medium,Not Sure,Not Sure,No,Healthy,1,0,Selangor,4456131
+415,Dog,6,Mixed Breed,Mixed Breed,Mixed,Black,White,None,Medium,Medium,Yes,Not Sure,Not Sure,Healthy,2,0,Selangor,3632933
+416,Cat,2,Domestic Short Hair,None,Male,Brown,None,None,Small,Short,No,No,No,Healthy,1,0,Selangor,6969601
+417,Dog,1,Mixed Breed,None,Female,Black,Brown,White,Large,Short,No,No,No,Healthy,1,50,Kuala Lumpur,4560979
+418,Cat,18,Domestic Short Hair,None,Male,Yellow,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,1047203
+419,Dog,4,Shepherd,Mixed Breed,Male,Black,Brown,Golden,Large,Medium,No,Yes,No,Healthy,1,0,Selangor,3943613
+420,Cat,6,Domestic Short Hair,Domestic Short Hair,Male,Black,White,None,Medium,Short,No,No,No,Healthy,2,0,Selangor,8227137
+421,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,No,Yes,No,Healthy,1,0,Perak,4083508
+422,Dog,4,Spitz,Mixed Breed,Female,Black,Brown,White,Medium,Short,Not Sure,Yes,Not Sure,Healthy,4,0,Kuala Lumpur,7799744
+423,Dog,2,Mixed Breed,Mixed Breed,Female,Black,White,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,3493444
+424,Dog,1,Mixed Breed,None,Male,Black,Brown,None,Medium,Medium,No,No,No,Healthy,1,0,Pulau Pinang,8992724
+425,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,1131900
+426,Dog,8,Mixed Breed,None,Male,Brown,White,None,Medium,Short,No,No,No,Healthy,1,0,Perak,4240530
+427,Cat,1,Domestic Short Hair,None,Mixed,Brown,Yellow,White,Medium,Medium,Yes,Yes,No,Healthy,20,0,Kuala Lumpur,3285745
+428,Cat,3,Tabby,None,Male,Golden,None,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,6449887
+429,Cat,3,Domestic Short Hair,None,Male,Cream,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,5651119
+430,Cat,3,Domestic Long Hair,Munchkin,Male,Black,None,None,Medium,Long,Yes,Yes,No,Healthy,1,100,Selangor,4130923
+431,Cat,4,Tabby,None,Mixed,Yellow,Gray,White,Medium,Medium,No,No,No,Healthy,2,0,Johor,3014180
+432,Cat,12,Domestic Short Hair,None,Female,Brown,None,None,Small,Short,No,No,No,Healthy,1,0,Selangor,3834511
+433,Cat,0,Domestic Short Hair,None,Mixed,Black,Cream,White,Medium,Medium,No,No,No,Healthy,4,0,Selangor,2750653
+434,Dog,72,German Shepherd Dog,None,Female,Black,Brown,Golden,Large,Long,Yes,Yes,No,Healthy,1,0,Perak,9728785
+435,Cat,1,Domestic Medium Hair,None,Mixed,Brown,Golden,None,Small,Medium,No,No,No,Healthy,2,0,Selangor,1776666
+436,Dog,1,Mixed Breed,None,Mixed,Black,Brown,White,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,5,0,Selangor,4399985
+437,Cat,3,Tabby,None,Female,Black,Brown,White,Small,Short,Yes,Yes,No,Healthy,1,0,Selangor,3472166
+438,Cat,12,Domestic Medium Hair,None,Mixed,Black,White,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,4,0,Selangor,2801240
+439,Dog,2,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,5229869
+440,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,9218815
+441,Dog,4,Mixed Breed,None,Female,Brown,White,None,Medium,Medium,Not Sure,Yes,Not Sure,Healthy,1,0,Selangor,7128078
+442,Dog,3,Mixed Breed,None,Male,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,9529890
+443,Dog,4,Mixed Breed,Rottweiler,Male,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,8163999
+444,Cat,3,Domestic Short Hair,None,Female,Black,None,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,8428675
+445,Cat,4,Domestic Short Hair,None,Male,Black,None,None,Medium,Short,Yes,Yes,Yes,Minor Injury,1,0,Selangor,6712381
+446,Cat,12,Tabby,None,Male,Golden,Cream,White,Medium,Short,No,Yes,Yes,Healthy,1,100,Kuala Lumpur,5739696
+447,Dog,36,Terrier,Mixed Breed,Male,Black,White,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,1109927
+448,Cat,2,Persian,Domestic Long Hair,Female,Black,Brown,Cream,Medium,Long,No,Yes,No,Healthy,1,100,Selangor,3220250
+449,Dog,4,Mixed Breed,None,Female,White,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,3625706
+450,Dog,5,Corgi,Corgi,Male,Black,White,None,Small,Medium,Yes,Yes,No,Healthy,1,0,Selangor,624242
+451,Cat,12,Domestic Medium Hair,Domestic Medium Hair,Female,Black,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Kuala Lumpur,6769773
+452,Cat,5,Domestic Short Hair,None,Male,Black,Brown,White,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,4258491
+453,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,3872850
+454,Dog,48,Pit Bull Terrier,Mixed Breed,Female,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,1452214
+455,Dog,5,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,3629304
+456,Dog,2,Mixed Breed,None,Female,Brown,None,None,Medium,Short,No,Yes,No,Healthy,4,0,Perak,6479219
+457,Dog,5,Mixed Breed,None,Female,Brown,None,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,7777891
+458,Cat,4,Domestic Short Hair,None,Female,Brown,White,None,Small,Short,Not Sure,Yes,No,Healthy,1,0,Kuala Lumpur,924650
+459,Dog,2,Belgian Shepherd Dog Sheepdog,Collie,Mixed,Black,Brown,White,Medium,Medium,No,No,No,Healthy,6,0,Kuala Lumpur,871978
+460,Dog,3,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,2123676
+461,Cat,4,Domestic Short Hair,Tabby,Male,Black,Gray,None,Small,Short,No,No,No,Healthy,1,0,Selangor,3424803
+462,Cat,5,Domestic Medium Hair,None,Male,Black,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,7475799
+463,Cat,3,Domestic Short Hair,None,Male,Yellow,None,None,Small,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,9328266
+464,Cat,2,Domestic Short Hair,None,Female,Black,White,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,8895881
+465,Cat,2,Tabby,None,Mixed,Black,Yellow,Gray,Medium,Medium,No,No,No,Healthy,2,0,Selangor,9629510
+466,Dog,4,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,6648463
+467,Dog,3,Mixed Breed,Pointer,Male,Black,Brown,White,Large,Short,Yes,Yes,No,Healthy,2,0,Selangor,5838841
+468,Dog,12,Mixed Breed,None,Female,Brown,Yellow,White,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Perak,4936662
+469,Cat,4,Oriental Tabby,None,Female,Brown,Yellow,White,Small,Short,No,Yes,No,Minor Injury,1,0,Selangor,1311804
+470,Dog,5,Mixed Breed,None,Male,White,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Johor,8242894
+471,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Johor,1559051
+472,Dog,2,Shar Pei,Mixed Breed,Female,Brown,None,None,Medium,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,7205057
+473,Cat,1,Domestic Short Hair,None,Mixed,Black,Brown,Gray,Medium,Short,No,Yes,No,Healthy,2,0,Selangor,2148207
+474,Dog,3,Schnauzer,None,Male,Gray,White,None,Small,Medium,Yes,Yes,No,Healthy,1,0,Johor,7689274
+475,Dog,2,Mixed Breed,Mixed Breed,Female,Black,Brown,Cream,Medium,Medium,No,No,No,Healthy,6,0,Selangor,4195768
+476,Cat,17,Domestic Short Hair,None,Female,Black,Brown,Golden,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,7827525
+477,Dog,8,Poodle,None,Female,Brown,None,None,Small,Short,Yes,Yes,Not Sure,Healthy,1,0,Selangor,5775571
+478,Cat,5,Domestic Short Hair,None,Male,Black,Brown,White,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,5727800
+479,Cat,12,Domestic Short Hair,None,Mixed,Black,White,None,Medium,Short,No,No,No,Healthy,2,0,Kuala Lumpur,8177176
+480,Dog,12,Husky,Mixed Breed,Male,Black,Brown,White,Medium,Medium,Yes,Yes,Yes,Healthy,1,150,Pulau Pinang,5846609
+481,Dog,5,Mixed Breed,None,Female,Black,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,100,Johor,9022190
+482,Dog,2,Mixed Breed,None,Female,Black,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,3225082
+483,Dog,24,Mixed Breed,Poodle,Female,Black,None,None,Small,Short,Not Sure,Yes,Not Sure,Minor Injury,1,0,Johor,595866
+484,Dog,5,Mixed Breed,None,Male,Black,Brown,Golden,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,8954845
+485,Cat,2,Pixie-Bob,Tabby,Mixed,Black,Yellow,Gray,Medium,Short,No,Yes,No,Healthy,2,50,Kuala Lumpur,9189442
+486,Dog,2,Mixed Breed,None,Male,Black,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Melaka,4529392
+487,Dog,2,Mixed Breed,Mixed Breed,Female,Brown,White,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,9137246
+488,Dog,36,Schnauzer,None,Female,Gray,White,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,2247128
+489,Dog,24,Mixed Breed,Mixed Breed,Female,Yellow,None,None,Large,Long,No,No,No,Healthy,1,0,Kuala Lumpur,9349594
+490,Cat,9,Domestic Long Hair,None,Male,Black,White,None,Medium,Long,No,Yes,No,Minor Injury,1,0,Kuala Lumpur,4254266
+491,Dog,1,Mixed Breed,None,Mixed,Black,White,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,2,0,Selangor,986482
+492,Dog,3,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,3190965
+493,Cat,10,Domestic Short Hair,None,Female,Black,Brown,Yellow,Small,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,6794067
+494,Dog,12,Poodle,None,Male,Gray,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,2694162
+495,Cat,3,Domestic Short Hair,None,Mixed,Cream,None,None,Medium,Short,No,Yes,No,Healthy,2,0,Selangor,8740305
+496,Dog,48,Jack Russell Terrier,None,Female,Cream,None,None,Small,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,5023107
+497,Cat,24,Persian,None,Male,Black,Brown,White,Medium,Long,Yes,Yes,No,Healthy,1,0,Selangor,9786626
+498,Dog,76,Beagle,None,Female,Black,Brown,White,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,3749393
+499,Cat,2,Domestic Short Hair,None,Female,Black,Gray,White,Small,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,3383765
+500,Cat,30,American Shorthair,None,Female,Gray,White,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,7262723
+501,Cat,2,Domestic Short Hair,None,Mixed,Black,Yellow,White,Small,Short,Yes,Yes,No,Healthy,3,0,Selangor,4039734
+502,Dog,1,Mixed Breed,None,Female,Black,None,None,Medium,Medium,No,No,No,Healthy,1,0,Pulau Pinang,7378662
+503,Dog,48,Mixed Breed,None,Female,Golden,None,None,Medium,Long,Yes,Yes,Yes,Healthy,1,0,Selangor,5152324
+504,Dog,9,Mixed Breed,Mixed Breed,Mixed,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,2,30,Selangor,6580690
+505,Dog,12,Mixed Breed,None,Female,White,None,None,Medium,Long,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,5288900
+506,Cat,6,Domestic Short Hair,None,Female,Black,Brown,White,Small,Short,Yes,Yes,Yes,Healthy,3,0,Kuala Lumpur,1213454
+507,Cat,1,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,7399890
+508,Cat,4,Persian,Tabby,Male,Yellow,None,None,Small,Medium,No,Yes,No,Healthy,3,100,Kuala Lumpur,4470016
+509,Cat,18,Domestic Short Hair,None,Male,Golden,White,None,Small,Short,Yes,Yes,Not Sure,Healthy,1,0,Kuala Lumpur,8121650
+510,Dog,1,Mixed Breed,None,Male,Black,Brown,White,Medium,Short,No,No,No,Healthy,1,0,Selangor,571
+511,Dog,2,Mixed Breed,None,Mixed,Black,Brown,White,Medium,Short,No,No,No,Healthy,8,0,Selangor,1734600
+512,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,9561567
+513,Cat,132,Domestic Short Hair,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,4344280
+514,Cat,16,Domestic Short Hair,Persian,Male,White,None,None,Large,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,6004028
+515,Dog,84,Miniature Pinscher,Terrier,Male,Brown,Golden,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,1268107
+516,Dog,48,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,7700390
+517,Dog,2,Mixed Breed,None,Mixed,Black,Brown,Cream,Medium,Short,No,Yes,No,Healthy,4,0,Selangor,2242512
+518,Cat,12,Domestic Long Hair,Domestic Long Hair,Male,Golden,None,None,Medium,Long,Yes,Not Sure,Not Sure,Healthy,1,0,Selangor,7823244
+519,Dog,2,Mixed Breed,Mixed Breed,Male,Black,Brown,White,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,7381391
+520,Dog,72,Golden Retriever,None,Female,Golden,Cream,None,Large,Long,Yes,Yes,Yes,Healthy,1,0,Selangor,3176679
+521,Cat,3,Domestic Medium Hair,None,Male,White,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,85952
+522,Dog,60,Terrier,None,Female,Brown,White,None,Small,Medium,Yes,Yes,Not Sure,Healthy,1,0,Selangor,577845
+523,Cat,2,Domestic Short Hair,None,Male,Golden,Gray,None,Small,Short,No,Yes,No,Healthy,2,0,Kuala Lumpur,5644190
+524,Cat,2,Siamese,Domestic Medium Hair,Female,Brown,Cream,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,1476585
+525,Cat,1,Domestic Short Hair,None,Female,Brown,White,None,Small,Short,No,No,No,Healthy,1,0,Selangor,6921428
+526,Dog,7,Mixed Breed,None,Male,Black,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,1383441
+527,Dog,3,Mixed Breed,Mixed Breed,Male,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,6856739
+528,Cat,6,Manx,None,Female,Brown,White,None,Small,Short,No,No,No,Serious Injury,1,0,Kuala Lumpur,6266205
+529,Cat,2,Domestic Short Hair,None,Female,Black,Gray,White,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,2343571
+530,Dog,3,Mixed Breed,None,Female,Brown,Cream,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,5907204
+531,Dog,2,Mixed Breed,None,Female,Golden,None,None,Medium,Short,Not Sure,Yes,No,Healthy,1,0,Kuala Lumpur,3059386
+532,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Medium,Medium,No,No,No,Healthy,8,0,Sarawak,527463
+533,Dog,1,Mixed Breed,Mixed Breed,Mixed,Black,Brown,White,Medium,Medium,No,No,No,Healthy,5,0,Selangor,5546381
+534,Dog,4,Labrador Retriever,Mixed Breed,Female,Black,Cream,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,4328180
+535,Dog,24,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,500,Selangor,4458702
+536,Cat,2,Domestic Medium Hair,None,Female,Black,Brown,Yellow,Medium,Medium,No,Yes,No,Minor Injury,1,0,Selangor,8981527
+537,Dog,24,Mixed Breed,None,Female,Brown,None,None,Large,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Pulau Pinang,8701752
+538,Dog,12,Mixed Breed,None,Female,Black,None,None,Small,Medium,Not Sure,Not Sure,No,Healthy,1,0,Kuala Lumpur,4846469
+539,Cat,3,Persian,Siamese,Male,Brown,White,None,Small,Medium,No,No,No,Healthy,1,200,Kuala Lumpur,7609407
+540,Dog,1,Mixed Breed,Mixed Breed,Female,Black,Brown,White,Medium,Short,No,No,No,Healthy,1,0,Selangor,3532233
+541,Cat,2,Domestic Short Hair,None,Male,Golden,White,None,Medium,Short,No,No,No,Healthy,1,200,Selangor,5489764
+542,Cat,12,Domestic Short Hair,None,Mixed,Black,Yellow,White,Large,Short,Yes,Yes,Yes,Healthy,5,0,Kuala Lumpur,1161000
+543,Dog,12,Mixed Breed,Miniature Pinscher,Male,Golden,None,None,Small,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,7394479
+544,Cat,3,Domestic Short Hair,None,Male,Black,Gray,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,9098484
+545,Dog,2,Mixed Breed,Mixed Breed,Female,Black,Brown,None,Medium,Short,No,Yes,No,Healthy,4,0,Pulau Pinang,8437823
+546,Dog,1,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,No,No,No,Healthy,2,0,Selangor,7298247
+547,Dog,72,Miniature Pinscher,None,Male,Brown,None,None,Small,Short,Yes,Yes,No,Minor Injury,1,0,Selangor,6378663
+548,Cat,2,Domestic Short Hair,None,Male,Gray,White,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,8813243
+549,Dog,1,Mixed Breed,None,Male,Black,Brown,White,Medium,Short,Yes,Yes,No,Healthy,1,100,Perak,4793183
+550,Dog,36,Boxer,Mixed Breed,Male,Black,Brown,White,Large,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,5857696
+551,Dog,3,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,2322298
+552,Cat,2,Domestic Short Hair,None,Female,Yellow,Gray,White,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,3,0,Selangor,3626254
+553,Cat,24,Domestic Short Hair,None,Female,Black,Yellow,Gray,Large,Short,Yes,Yes,Yes,Healthy,2,0,Selangor,2330224
+554,Cat,11,Domestic Short Hair,None,Male,Cream,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,100,Selangor,395078
+555,Cat,12,Domestic Long Hair,None,Mixed,Black,Gray,White,Medium,Medium,No,No,No,Healthy,6,0,Selangor,8953555
+556,Dog,3,Mixed Breed,None,Male,Black,None,None,Small,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,2400823
+557,Cat,12,Domestic Medium Hair,None,Mixed,Black,White,None,Small,Medium,No,No,No,Healthy,2,0,Selangor,1393153
+558,Cat,60,Bengal,None,Male,Black,Brown,Golden,Large,Short,Yes,Yes,Yes,Healthy,1,200,Selangor,4411035
+559,Cat,1,Domestic Medium Hair,None,Female,Black,White,None,Small,Medium,No,Yes,No,Healthy,1,0,Pahang,9348378
+560,Dog,2,Terrier,Mixed Breed,Female,Black,Brown,Cream,Medium,Short,No,Yes,No,Healthy,2,0,Selangor,2205817
+561,Cat,6,Domestic Short Hair,None,Female,Golden,Yellow,White,Large,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,1299931
+562,Cat,3,Tabby,None,Male,Brown,None,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Johor,4711683
+563,Dog,2,Mixed Breed,None,Male,Brown,Golden,Cream,Medium,Medium,No,Yes,Not Sure,Healthy,1,0,Melaka,3267498
+564,Cat,2,Bengal,Domestic Medium Hair,Male,Golden,White,None,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,8220405
+565,Cat,3,Domestic Short Hair,None,Male,Black,White,None,Large,Short,No,Yes,No,Healthy,4,0,Kuala Lumpur,4478846
+566,Cat,5,Domestic Short Hair,None,Female,Black,Brown,Gray,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,7274309
+567,Dog,24,Dachshund,Welsh Corgi,Male,Black,Brown,Cream,Medium,Medium,Yes,Yes,Yes,Healthy,1,200,Selangor,5232333
+568,Dog,4,Mixed Breed,None,Mixed,Black,Brown,Cream,Small,Medium,No,No,No,Healthy,6,0,Selangor,3993836
+569,Cat,3,Domestic Short Hair,None,Male,Black,None,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,3331392
+570,Cat,4,Domestic Short Hair,Domestic Medium Hair,Male,Black,Cream,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Pulau Pinang,9322995
+571,Cat,19,Domestic Short Hair,Domestic Short Hair,Male,Gray,None,None,Medium,Short,Yes,Yes,Yes,Healthy,2,0,Selangor,1343967
+572,Cat,2,Domestic Medium Hair,Oriental Short Hair,Female,Golden,White,None,Medium,Medium,No,Yes,No,Healthy,1,50,Pulau Pinang,9864542
+573,Dog,2,Mixed Breed,None,Female,Black,Brown,White,Medium,Short,No,No,Not Sure,Healthy,1,0,Selangor,1368635
+574,Cat,6,Domestic Medium Hair,None,Male,Gray,None,None,Small,Medium,No,Yes,No,Healthy,1,0,Selangor,6088735
+575,Dog,2,Rottweiler,Mixed Breed,Male,Black,Cream,None,Large,Medium,No,No,No,Healthy,2,100,Kuala Lumpur,1253757
+576,Dog,2,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,9199157
+577,Cat,12,Tabby,None,Male,Golden,None,None,Large,Short,Yes,Yes,Yes,Healthy,1,50,Kuala Lumpur,5159230
+578,Dog,11,Mixed Breed,None,Male,Cream,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,28265
+579,Cat,2,Bengal,Domestic Medium Hair,Female,Black,Brown,Gray,Small,Medium,No,No,No,Healthy,3,0,Kuala Lumpur,4661714
+580,Dog,36,Terrier,Mixed Breed,Female,Brown,White,None,Medium,Medium,No,Yes,Yes,Healthy,1,0,Selangor,1098359
+581,Cat,12,Domestic Short Hair,None,Female,Gray,White,None,Medium,Short,Not Sure,Not Sure,Yes,Healthy,1,0,Selangor,1449377
+582,Dog,1,Mixed Breed,None,Female,Cream,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,2,0,Melaka,9771739
+583,Cat,8,Siamese,Tabby,Female,Brown,Gray,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,8258136
+584,Cat,24,Domestic Short Hair,Domestic Short Hair,Female,Cream,None,None,Small,Short,Yes,Yes,Not Sure,Healthy,1,0,Selangor,1794463
+585,Cat,1,Domestic Short Hair,None,Male,Brown,None,None,Medium,Short,No,No,No,Healthy,1,100,Kuala Lumpur,1949010
+586,Dog,3,Mixed Breed,Mixed Breed,Male,Brown,White,None,Medium,Short,No,No,No,Healthy,1,1,Pulau Pinang,5419725
+587,Dog,3,Mixed Breed,None,Female,Black,Yellow,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,9927185
+588,Cat,2,Persian,Domestic Short Hair,Mixed,Black,Brown,None,Large,Medium,No,No,No,Healthy,2,50,Selangor,1231656
+589,Dog,12,Mixed Breed,None,Male,Black,Brown,None,Small,Short,Not Sure,Yes,Not Sure,Healthy,1,0,Pulau Pinang,7709799
+590,Dog,8,Mixed Breed,None,Male,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,8956906
+591,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Kuala Lumpur,255525
+592,Cat,2,Domestic Long Hair,Domestic Medium Hair,Female,Black,Gray,White,Medium,Medium,No,Yes,No,Healthy,1,50,Selangor,1431783
+593,Cat,1,Domestic Long Hair,Domestic Short Hair,Male,Black,Brown,White,Medium,Long,No,No,No,Healthy,3,0,Selangor,4705187
+594,Cat,12,Tabby,None,Male,Golden,Cream,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,2319336
+595,Dog,6,Labrador Retriever,Mixed Breed,Female,Black,None,None,Medium,Medium,Yes,Not Sure,Not Sure,Healthy,1,0,Selangor,3354465
+596,Dog,2,Chocolate Labrador Retriever,Mixed Breed,Mixed,Brown,Cream,None,Medium,Short,No,Yes,No,Healthy,4,0,Selangor,2711154
+597,Dog,48,Golden Retriever,None,Mixed,Golden,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,2,0,Kuala Lumpur,1739961
+598,Cat,1,Tabby,None,Mixed,Golden,Gray,White,Medium,Medium,Not Sure,Not Sure,No,Healthy,5,0,Selangor,7649264
+599,Cat,0,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,7377378
+600,Dog,60,Mixed Breed,None,Male,Golden,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,6943870
+601,Dog,0,Mixed Breed,None,Mixed,Brown,Cream,None,Medium,Short,No,No,No,Healthy,10,0,Selangor,6483674
+602,Dog,2,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,3226054
+603,Cat,3,Domestic Short Hair,None,Mixed,Black,Gray,White,Medium,Short,No,No,No,Healthy,7,0,Selangor,4371688
+604,Cat,3,Domestic Short Hair,None,Male,Black,None,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,8371628
+605,Cat,2,Domestic Long Hair,None,Male,Black,White,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,7845262
+606,Dog,2,Mixed Breed,Mixed Breed,Mixed,Brown,None,None,Medium,Short,No,No,No,Healthy,2,0,Kuala Lumpur,1562734
+607,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,No,No,No,Healthy,2,0,Negeri Sembilan,472075
+608,Dog,24,Mixed Breed,None,Male,Brown,None,None,Large,Short,Yes,Yes,Yes,Healthy,1,200,Selangor,434729
+609,Cat,10,Domestic Short Hair,None,Female,Black,White,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,5452625
+610,Dog,2,Mixed Breed,None,Female,Black,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Perak,9419519
+611,Cat,1,Persian,Domestic Long Hair,Male,Black,White,None,Large,Long,No,No,No,Healthy,1,50,Selangor,1713265
+612,Dog,60,Dachshund,None,Male,Brown,None,None,Small,Long,Yes,Yes,Yes,Healthy,1,150,Selangor,1911640
+613,Cat,1,Domestic Short Hair,None,Male,Brown,Golden,Yellow,Medium,Short,No,No,No,Healthy,1,15,Selangor,1071311
+614,Cat,4,Domestic Short Hair,Tabby,Male,Black,Gray,White,Medium,Short,Yes,Yes,No,Healthy,1,100,Selangor,3644949
+615,Cat,5,Domestic Short Hair,None,Female,Black,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,150,Selangor,9190867
+616,Dog,7,Mixed Breed,None,Female,Yellow,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,100,Kuala Lumpur,4931427
+617,Dog,36,Mixed Breed,None,Female,Black,Brown,Cream,Large,Short,Not Sure,Not Sure,Yes,Healthy,1,0,Kuala Lumpur,1464432
+618,Cat,2,Domestic Medium Hair,None,Male,Black,White,None,Medium,Short,Yes,Yes,Not Sure,Healthy,1,0,Kuala Lumpur,991384
+619,Cat,2,Siamese,Burmese,Male,Brown,Cream,None,Medium,Short,No,Yes,No,Healthy,1,100,Selangor,6366829
+620,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,3692707
+621,Dog,0,Mixed Breed,None,Mixed,Black,Brown,White,Medium,Short,No,No,No,Healthy,8,0,Selangor,3817696
+622,Cat,1,Domestic Short Hair,Domestic Medium Hair,Female,White,None,None,Small,Medium,No,No,No,Healthy,1,0,Selangor,5622860
+623,Dog,2,Mixed Breed,Terrier,Female,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,43556
+624,Dog,2,Mixed Breed,None,Male,White,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,7150308
+625,Cat,4,American Shorthair,Domestic Short Hair,Female,Cream,White,None,Small,Medium,Yes,Yes,No,Healthy,1,80,Selangor,4182711
+626,Dog,1,Mixed Breed,Mixed Breed,Mixed,Brown,Golden,Gray,Medium,Medium,No,No,No,Healthy,9,0,Perak,4636101
+627,Cat,3,Domestic Short Hair,None,Male,Gray,White,None,Small,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,7959596
+628,Dog,3,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,4105510
+629,Dog,60,Shih Tzu,Mixed Breed,Female,Black,Brown,Gray,Small,Medium,Not Sure,Yes,Not Sure,Minor Injury,1,100,Negeri Sembilan,681196
+630,Cat,5,Domestic Short Hair,None,Female,Cream,None,None,Large,Short,Yes,Yes,No,Healthy,1,0,Selangor,6210018
+631,Cat,2,Domestic Medium Hair,None,Female,Black,White,None,Small,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,1232031
+632,Dog,12,Mixed Breed,None,Mixed,Brown,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,4,0,Kuala Lumpur,1532730
+633,Cat,2,Manx,None,Female,Black,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Pulau Pinang,2466998
+634,Dog,2,Mixed Breed,Mixed Breed,Female,Brown,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,4627257
+635,Cat,14,Tabby,None,Male,Golden,None,None,Large,Short,No,Yes,Yes,Healthy,1,0,Selangor,7435097
+636,Cat,1,Domestic Short Hair,None,Male,Golden,White,None,Small,Short,No,No,No,Healthy,1,0,Selangor,778270
+637,Cat,8,Domestic Short Hair,None,Female,Gray,White,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,4318762
+638,Dog,3,Mixed Breed,None,Female,Black,None,None,Small,Short,Yes,Yes,No,Healthy,1,100,Kuala Lumpur,9178839
+639,Dog,8,Mixed Breed,None,Male,Black,Brown,Yellow,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,8740363
+640,Cat,6,Domestic Medium Hair,Domestic Short Hair,Female,Black,Brown,None,Small,Medium,Yes,Yes,Yes,Healthy,1,30,Selangor,2183058
+641,Cat,1,Domestic Short Hair,None,Female,Black,Yellow,White,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,6209268
+642,Cat,1,Domestic Short Hair,None,Male,Black,Brown,Gray,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,5902210
+643,Cat,18,Domestic Short Hair,None,Male,White,None,None,Medium,Short,No,Yes,Yes,Healthy,1,0,Kuala Lumpur,2494610
+644,Dog,60,Beagle,None,Male,Black,Brown,White,Medium,Medium,No,Yes,No,Minor Injury,1,0,Kuala Lumpur,5373869
+645,Dog,12,Mixed Breed,None,Male,Cream,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,1219449
+646,Dog,6,Golden Retriever,Rottweiler,Female,Black,None,None,Medium,Short,Yes,Yes,Not Sure,Healthy,1,100,Selangor,6774511
+647,Dog,2,Mixed Breed,None,Mixed,Black,Brown,Cream,Small,Medium,No,No,No,Healthy,7,0,Kuala Lumpur,3587890
+648,Cat,2,Domestic Medium Hair,None,Mixed,Black,Gray,None,Small,Medium,No,No,No,Healthy,2,0,Selangor,1641949
+649,Cat,2,Siamese,Domestic Long Hair,Female,Black,Yellow,None,Small,Medium,No,Not Sure,No,Healthy,1,0,Negeri Sembilan,983662
+650,Dog,2,Mixed Breed,None,Female,Golden,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,2668071
+651,Dog,5,Mixed Breed,Mixed Breed,Mixed,Black,Brown,White,Medium,Short,No,No,Not Sure,Healthy,2,0,Selangor,832372
+652,Dog,2,German Shepherd Dog,Mixed Breed,Female,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,868265
+653,Dog,24,Labrador Retriever,None,Male,Black,White,None,Large,Medium,Yes,Yes,No,Healthy,1,0,Selangor,5745731
+654,Cat,2,Domestic Short Hair,None,Mixed,Black,Brown,None,Small,Medium,No,Yes,No,Healthy,2,0,Kuala Lumpur,654329
+655,Cat,5,Domestic Short Hair,None,Mixed,Black,White,None,Small,Short,Yes,Yes,Yes,Healthy,6,0,Selangor,2827524
+656,Dog,24,Mixed Breed,None,Female,Brown,Golden,None,Medium,Medium,Yes,Yes,Yes,Healthy,2,0,Pulau Pinang,3523914
+657,Dog,2,Mixed Breed,None,Mixed,Brown,None,None,Medium,Short,No,Yes,No,Healthy,2,0,Selangor,9315058
+658,Dog,1,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,2,0,Kuala Lumpur,7800520
+659,Dog,2,Mixed Breed,Mixed Breed,Male,White,None,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,188643
+660,Cat,4,Domestic Short Hair,None,Female,Black,None,None,Small,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,5399621
+661,Dog,36,Chihuahua,Jack Russell Terrier,Female,Brown,White,None,Small,Short,Yes,Yes,Not Sure,Healthy,1,250,Selangor,6477224
+662,Dog,12,Doberman Pinscher,Labrador Retriever,Male,Black,Brown,None,Medium,Short,Yes,Yes,Not Sure,Healthy,2,0,Pulau Pinang,7359033
+663,Cat,12,Domestic Short Hair,Tortoiseshell,Female,Black,Brown,None,Small,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,3070876
+664,Cat,2,Domestic Short Hair,None,Mixed,Black,Brown,None,Medium,Short,No,No,No,Healthy,4,0,Kuala Lumpur,5185427
+665,Dog,84,Mixed Breed,Schnauzer,Female,Gray,None,None,Small,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,265063
+666,Cat,4,Domestic Short Hair,None,Male,Black,Gray,White,Medium,Medium,No,No,No,Healthy,2,0,Terengganu,1468576
+667,Dog,7,Golden Retriever,Golden Retriever,Female,Brown,None,None,Large,Long,Yes,Yes,No,Healthy,1,500,Selangor,53691
+668,Cat,2,Snowshoe,Domestic Short Hair,Female,Black,White,None,Medium,Short,No,Yes,No,Healthy,1,50,Selangor,5659492
+669,Cat,9,Domestic Short Hair,Domestic Short Hair,Female,Brown,Yellow,Gray,Medium,Short,No,No,No,Healthy,2,0,Selangor,7358871
+670,Cat,1,Domestic Short Hair,None,Female,Yellow,Cream,White,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,1433631
+671,Cat,3,Domestic Long Hair,Domestic Medium Hair,Female,Black,Brown,Golden,Small,Medium,No,Yes,No,Healthy,1,0,Selangor,5983238
+672,Cat,3,American Shorthair,None,Mixed,Black,Golden,White,Small,Short,No,No,No,Healthy,9,0,Selangor,1919770
+673,Dog,24,Mixed Breed,Spitz,Mixed,Black,Brown,Cream,Medium,Medium,Yes,Yes,Yes,Healthy,4,0,Kuala Lumpur,4656191
+674,Cat,4,Domestic Medium Hair,None,Mixed,Gray,White,None,Small,Medium,No,No,No,Healthy,2,40,Selangor,2834278
+675,Dog,1,Mixed Breed,Mixed Breed,Female,Black,None,None,Medium,Long,Yes,Yes,No,Healthy,1,0,Selangor,3907992
+676,Cat,5,Domestic Short Hair,None,Male,Brown,Cream,White,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,8019509
+677,Dog,3,Mixed Breed,None,Male,Cream,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,2098299
+678,Dog,2,Rat Terrier,None,Male,Black,White,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,1694555
+679,Cat,4,Domestic Short Hair,None,Male,Black,Yellow,White,Small,Short,Not Sure,Not Sure,Not Sure,Minor Injury,3,0,Kuala Lumpur,5572327
+680,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,2106735
+681,Dog,24,Golden Retriever,Mixed Breed,Mixed,Black,Golden,None,Large,Medium,Yes,Yes,Yes,Healthy,2,0,Kuala Lumpur,3778319
+682,Cat,1,Domestic Medium Hair,Domestic Short Hair,Female,Brown,White,None,Medium,Medium,Not Sure,Not Sure,No,Healthy,3,0,Selangor,3267164
+683,Dog,9,Mixed Breed,None,Female,Black,Brown,Cream,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,1115609
+684,Dog,4,Mixed Breed,None,Male,Brown,None,None,Large,Medium,Yes,Yes,No,Healthy,1,0,Selangor,3818819
+685,Dog,96,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,5221390
+686,Cat,60,Domestic Short Hair,Domestic Short Hair,Mixed,Yellow,White,None,Medium,Short,No,Yes,Yes,Minor Injury,2,0,Selangor,1736972
+687,Cat,72,Tiger,British Shorthair,Male,Brown,Golden,Yellow,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,3847301
+688,Cat,46,Domestic Short Hair,None,Female,Brown,Golden,Cream,Large,Short,No,No,No,Healthy,1,0,Selangor,6282527
+689,Dog,2,Mixed Breed,None,Female,Cream,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,7273484
+690,Dog,1,Mixed Breed,None,Female,Golden,Cream,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Melaka,2189272
+691,Dog,1,Mixed Breed,None,Mixed,Black,Brown,Yellow,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,6,100,Pulau Pinang,3587272
+692,Dog,3,Mixed Breed,Mixed Breed,Female,White,None,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,2,0,Selangor,9153913
+693,Cat,2,Domestic Short Hair,None,Male,Black,White,None,Small,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,3781815
+694,Cat,2,Manx,Cymric,Female,Gray,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,100,Selangor,8637276
+695,Cat,3,Domestic Short Hair,None,Mixed,Black,Gray,White,Small,Short,Yes,Yes,Not Sure,Minor Injury,3,0,Selangor,3575892
+696,Cat,2,Domestic Short Hair,None,Male,White,None,None,Medium,Short,No,No,No,Healthy,1,0,Pahang,4568205
+697,Cat,6,Domestic Medium Hair,Domestic Medium Hair,Mixed,Brown,Cream,Gray,Medium,Medium,Yes,Yes,Yes,Healthy,3,135,Selangor,4991428
+698,Cat,2,Domestic Short Hair,None,Male,Golden,White,None,Small,Short,Yes,Yes,No,Healthy,1,0,Selangor,7663224
+699,Cat,12,Domestic Medium Hair,None,Female,Brown,White,None,Medium,Medium,Not Sure,Yes,Not Sure,Healthy,2,0,Selangor,3797387
+700,Dog,8,Shih Tzu,None,Male,Brown,Cream,None,Small,Medium,Yes,Yes,No,Healthy,1,0,Selangor,9462980
+701,Cat,2,Domestic Short Hair,None,Female,Golden,Yellow,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,8247162
+702,Dog,48,Terrier,None,Male,Brown,Cream,White,Medium,Long,Yes,Yes,Yes,Healthy,1,0,Selangor,8792772
+703,Cat,1,Domestic Medium Hair,Tuxedo,Mixed,Brown,Yellow,Gray,Small,Medium,No,No,No,Healthy,5,0,Selangor,1474978
+704,Cat,1,Tabby,None,Female,Black,Brown,Golden,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,2710382
+705,Dog,2,Mixed Breed,Miniature Pinscher,Female,Brown,Gray,None,Medium,Short,No,Yes,Yes,Healthy,1,0,Selangor,1347689
+706,Cat,6,Domestic Short Hair,Domestic Short Hair,Male,Yellow,None,None,Medium,Short,No,No,No,Healthy,1,0,Kuala Lumpur,4757995
+707,Cat,3,Domestic Short Hair,None,Female,Gray,None,None,Medium,Short,No,No,No,Healthy,2,0,Selangor,7686005
+708,Cat,0,Tabby,None,Male,Cream,Gray,White,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,3827702
+709,Cat,3,Domestic Short Hair,Domestic Medium Hair,Mixed,Golden,White,None,Small,Medium,No,No,No,Healthy,2,0,Selangor,5310635
+710,Dog,12,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,7609132
+711,Cat,2,Domestic Medium Hair,Birman,Male,Brown,Cream,White,Medium,Medium,Yes,Yes,No,Healthy,1,50,Selangor,3434350
+712,Cat,9,Tabby,Domestic Short Hair,Female,Brown,Golden,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,7308289
+713,Cat,3,Siamese,None,Male,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,1356088
+714,Dog,4,Mixed Breed,None,Female,Golden,Yellow,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,9462465
+715,Dog,2,Mixed Breed,None,Female,Cream,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Perak,7735117
+716,Dog,3,Mixed Breed,None,Male,Black,None,None,Medium,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,623075
+717,Cat,4,Domestic Short Hair,None,Female,Black,Brown,Golden,Medium,Short,No,Yes,No,Minor Injury,1,0,Selangor,9779626
+718,Cat,3,Domestic Short Hair,None,Male,Brown,Yellow,Gray,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,8439714
+719,Dog,2,Mixed Breed,None,Male,Black,White,None,Large,Short,No,Yes,Not Sure,Healthy,1,0,Kuala Lumpur,8129031
+720,Cat,2,Domestic Short Hair,None,Male,Black,Brown,None,Small,Short,No,Yes,No,Healthy,1,50,Selangor,8310241
+721,Cat,2,Domestic Medium Hair,Tabby,Male,Golden,None,None,Medium,Medium,No,No,No,Healthy,1,150,Selangor,5190848
+722,Cat,10,Tabby,None,Female,Black,White,None,Small,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,6251258
+723,Dog,12,Mixed Breed,Terrier,Male,Black,Brown,Cream,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,4973288
+724,Dog,15,Chihuahua,None,Male,Black,Cream,None,Small,Medium,Yes,Yes,No,Healthy,1,200,Selangor,769378
+725,Cat,5,Domestic Long Hair,None,Male,Yellow,None,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,6699636
+726,Cat,3,Siamese,Singapura,Female,Brown,White,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,3349994
+727,Dog,3,Mixed Breed,Collie,Female,Black,Brown,None,Large,Medium,Yes,Yes,No,Healthy,1,0,Selangor,3038281
+728,Dog,1,Mixed Breed,None,Female,Brown,White,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,4153222
+729,Cat,6,Domestic Medium Hair,None,Female,Brown,Yellow,White,Small,Medium,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,4959432
+730,Cat,36,Domestic Short Hair,Tortoiseshell,Female,Black,Brown,White,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,7090368
+731,Cat,2,Domestic Medium Hair,None,Female,Black,Brown,White,Small,Medium,No,Yes,No,Healthy,1,0,Pulau Pinang,110433
+732,Dog,2,Mixed Breed,Mixed Breed,Male,Black,White,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,571210
+733,Dog,2,Mixed Breed,None,Male,Cream,None,None,Large,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,373754
+734,Cat,2,Tiger,None,Female,Black,Gray,White,Medium,Medium,No,No,No,Healthy,1,0,Selangor,2370154
+735,Cat,5,Domestic Medium Hair,None,Female,Brown,White,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,3143391
+736,Dog,1,Schnauzer,None,Male,White,None,None,Small,Short,No,Yes,No,Healthy,1,0,Selangor,2294094
+737,Dog,1,Mixed Breed,Labrador Retriever,Female,Black,White,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,4314712
+738,Dog,24,Mixed Breed,None,Male,Black,Brown,Yellow,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Perak,151333
+739,Cat,1,Domestic Short Hair,None,Female,Golden,Yellow,None,Medium,Short,No,No,No,Healthy,1,5,Kuala Lumpur,6041247
+740,Dog,2,Dalmatian,Dalmatian,Mixed,Black,Brown,White,Small,Medium,Yes,Not Sure,Not Sure,Healthy,5,0,Selangor,3418047
+741,Cat,2,Domestic Short Hair,None,Male,Golden,None,None,Medium,Short,No,Yes,No,Healthy,2,0,Selangor,5713041
+742,Dog,2,Mixed Breed,Mixed Breed,Female,Black,White,None,Medium,Short,Not Sure,Yes,Not Sure,Healthy,1,0,Selangor,9832243
+743,Dog,5,Mixed Breed,Golden Retriever,Male,Black,White,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,8219683
+744,Cat,3,Domestic Short Hair,None,Mixed,Black,Brown,White,Medium,Short,No,No,No,Healthy,3,0,Kuala Lumpur,9473973
+745,Cat,1,Persian,None,Female,Gray,White,None,Large,Long,No,No,No,Healthy,2,0,Kuala Lumpur,7422564
+746,Dog,2,Mixed Breed,Mixed Breed,Female,Cream,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,1968570
+747,Dog,1,Mixed Breed,None,Male,Cream,White,None,Medium,Medium,No,No,No,Healthy,1,0,Pulau Pinang,6962596
+748,Cat,10,Domestic Short Hair,Domestic Short Hair,Female,White,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,2,0,Selangor,4837382
+749,Dog,1,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,8805327
+750,Dog,60,Beagle,None,Male,Brown,White,None,Medium,Short,Not Sure,Not Sure,Yes,Healthy,1,300,Kuala Lumpur,1607725
+751,Dog,2,Mixed Breed,None,Male,Brown,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,7612450
+752,Dog,5,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,Not Sure,Yes,No,Healthy,1,0,Kuala Lumpur,9095660
+753,Dog,50,Schnauzer,None,Female,Black,Gray,None,Small,Medium,Yes,Yes,Not Sure,Healthy,1,100,Perak,8897638
+754,Dog,2,Mixed Breed,None,Male,Black,Brown,White,Medium,Short,No,No,No,Healthy,2,50,Selangor,9298070
+755,Cat,1,Domestic Short Hair,None,Female,Black,Yellow,White,Small,Short,No,No,No,Healthy,1,0,Selangor,3746948
+756,Dog,72,Shih Tzu,None,Male,Brown,Cream,White,Small,Short,Yes,Yes,No,Serious Injury,1,0,Selangor,5070045
+757,Cat,1,Domestic Medium Hair,None,Male,Black,White,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,2901716
+758,Cat,3,Domestic Short Hair,None,Male,Black,Brown,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,7215588
+759,Cat,1,Domestic Medium Hair,Domestic Medium Hair,Mixed,Black,Yellow,White,Small,Medium,No,No,No,Healthy,6,0,Perak,4066101
+760,Dog,17,Kuvasz,Husky,Mixed,Black,Cream,White,Large,Medium,Yes,Yes,No,Healthy,2,0,Kuala Lumpur,1161131
+761,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Short,No,Yes,No,Healthy,2,0,Kuala Lumpur,7047444
+762,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,7593984
+763,Dog,84,Poodle,None,Male,Black,Brown,Gray,Medium,Long,Yes,Yes,No,Healthy,1,0,Selangor,1826108
+764,Cat,24,Domestic Short Hair,None,Female,Black,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,2254580
+765,Cat,1,Domestic Short Hair,None,Female,Black,Brown,Yellow,Small,Short,No,No,No,Healthy,1,0,Kedah,1236467
+766,Cat,8,Domestic Short Hair,Domestic Short Hair,Female,Black,Brown,None,Medium,Short,No,No,No,Healthy,1,0,Negeri Sembilan,6164647
+767,Dog,1,Mixed Breed,Mixed Breed,Male,Black,Brown,White,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,7778216
+768,Cat,8,Tabby,None,Male,Golden,Yellow,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,7520950
+769,Cat,1,Domestic Short Hair,None,Female,Black,White,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,10,Selangor,8907253
+770,Cat,48,Domestic Short Hair,Domestic Short Hair,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Pulau Pinang,6493142
+771,Cat,4,Domestic Medium Hair,Tabby,Male,Golden,Cream,White,Medium,Medium,Yes,Yes,No,Healthy,2,0,Kuala Lumpur,4925692
+772,Dog,2,Mixed Breed,None,Mixed,Brown,Yellow,None,Medium,Medium,Yes,Yes,Not Sure,Healthy,2,0,Negeri Sembilan,5281474
+773,Cat,2,Domestic Short Hair,None,Female,Black,Brown,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,8012141
+774,Dog,1,Mixed Breed,None,Male,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,437423
+775,Dog,1,Mixed Breed,Mixed Breed,Mixed,Black,Brown,White,Medium,Short,No,No,No,Healthy,2,0,Pulau Pinang,9371806
+776,Dog,30,Cocker Spaniel,None,Female,Brown,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,350,Johor,1927825
+777,Cat,12,Domestic Short Hair,None,Male,Black,White,None,Medium,Short,No,Yes,Yes,Healthy,1,0,Selangor,4579901
+778,Dog,1,Mixed Breed,Mixed Breed,Mixed,Golden,Yellow,Cream,Medium,Short,No,No,No,Healthy,6,0,Kuala Lumpur,5670772
+779,Dog,56,Shih Tzu,None,Female,Cream,White,None,Small,Long,Yes,Yes,No,Healthy,1,0,Selangor,2011298
+780,Dog,2,Mixed Breed,None,Male,Brown,White,None,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,6963072
+781,Cat,24,American Shorthair,Domestic Short Hair,Mixed,Black,Yellow,White,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,3,0,Kuala Lumpur,4586093
+782,Dog,36,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,7907931
+783,Dog,2,Mixed Breed,Mixed Breed,Female,Black,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,6360919
+784,Cat,3,Calico,Domestic Short Hair,Mixed,Black,Golden,White,Small,Short,No,Yes,No,Healthy,4,0,Selangor,2809423
+785,Cat,1,American Curl,None,Mixed,Black,Brown,Golden,Medium,Long,No,Yes,Not Sure,Healthy,2,250,Selangor,5427105
+786,Dog,54,Golden Retriever,None,Male,Golden,None,None,Large,Medium,Yes,Yes,No,Healthy,1,350,Kuala Lumpur,2095933
+787,Cat,4,Tabby,None,Male,Black,Gray,White,Medium,Short,No,No,No,Healthy,1,0,Selangor,6809891
+788,Cat,2,Domestic Short Hair,None,Male,Black,White,None,Small,Short,No,Not Sure,No,Healthy,1,0,Selangor,658156
+789,Cat,12,Domestic Short Hair,Domestic Long Hair,Male,Brown,White,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,100,Selangor,6605437
+790,Dog,50,Mixed Breed,Mixed Breed,Female,Cream,White,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,6723506
+791,Cat,11,Domestic Short Hair,None,Female,White,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,6405942
+792,Cat,12,Calico,Domestic Short Hair,Mixed,Yellow,Cream,Gray,Small,Short,No,No,No,Healthy,4,0,Selangor,19320
+793,Dog,2,Mixed Breed,None,Male,Brown,Cream,White,Medium,Short,No,No,No,Healthy,1,150,Selangor,884469
+794,Dog,1,Mixed Breed,Mixed Breed,Male,Brown,None,None,Medium,Medium,No,No,No,Healthy,1,0,Negeri Sembilan,7657475
+795,Cat,3,Domestic Medium Hair,None,Male,Black,None,None,Small,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,1766997
+796,Dog,1,Labrador Retriever,Mixed Breed,Mixed,Cream,None,None,Medium,Short,No,No,No,Healthy,4,0,Selangor,5336118
+797,Dog,24,Mixed Breed,None,Female,Brown,Cream,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,842922
+798,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Perak,9340846
+799,Cat,2,Domestic Short Hair,None,Female,Gray,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,8135375
+800,Cat,1,Domestic Short Hair,None,Female,Brown,Cream,White,Small,Short,No,No,No,Healthy,1,0,Johor,687909
+801,Dog,30,Siberian Husky,Golden Retriever,Female,Black,Golden,Cream,Large,Long,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,7193809
+802,Dog,3,Mixed Breed,None,Mixed,Cream,None,None,Medium,Short,No,No,No,Healthy,5,0,Selangor,5024252
+803,Cat,8,Siamese,None,Mixed,Black,Yellow,White,Medium,Short,Yes,Yes,Not Sure,Healthy,2,0,Kelantan,7502961
+804,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Short,No,No,No,Healthy,2,0,Selangor,3067556
+805,Dog,3,Mixed Breed,None,Male,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,5337464
+806,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,No,No,No,Healthy,4,0,Kuala Lumpur,9653961
+807,Cat,6,Domestic Short Hair,None,Male,Gray,None,None,Medium,Short,Yes,Yes,Yes,Healthy,2,0,Kuala Lumpur,919990
+808,Dog,5,Mixed Breed,None,Female,Black,Brown,Cream,Medium,Short,Yes,Yes,Yes,Healthy,2,0,Selangor,1084909
+809,Cat,13,Domestic Medium Hair,None,Mixed,Black,White,None,Medium,Medium,No,No,No,Healthy,4,0,Kuala Lumpur,383640
+810,Cat,6,Silver,None,Male,Black,Gray,White,Small,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,3930263
+811,Dog,2,Mixed Breed,None,Female,Brown,White,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,571986
+812,Cat,17,Persian,Domestic Medium Hair,Male,Yellow,White,None,Medium,Medium,No,Yes,Not Sure,Healthy,1,0,Johor,4326529
+813,Dog,1,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,7635831
+814,Dog,12,Mixed Breed,None,Male,Black,Brown,White,Medium,Medium,No,Yes,No,Healthy,1,0,Kuala Lumpur,6428396
+815,Cat,5,Domestic Long Hair,None,Male,Black,White,None,Medium,Medium,No,Yes,No,Minor Injury,5,10,Pulau Pinang,5607616
+816,Dog,2,Mixed Breed,None,Female,White,None,None,Large,Short,Yes,Yes,No,Healthy,1,0,Selangor,9128965
+817,Cat,3,Domestic Medium Hair,None,Male,Yellow,Cream,White,Medium,Medium,Not Sure,Yes,Not Sure,Healthy,1,0,Kuala Lumpur,360514
+818,Cat,4,Domestic Short Hair,None,Female,Black,White,None,Small,Short,No,No,No,Healthy,1,0,Selangor,8279380
+819,Dog,8,Mixed Breed,None,Female,Black,White,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,1529459
+820,Cat,3,Domestic Short Hair,Domestic Medium Hair,Mixed,Golden,Gray,White,Small,Short,No,No,No,Healthy,3,0,Selangor,45867
+821,Dog,11,Mixed Breed,None,Male,Black,Cream,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Perak,4957952
+822,Cat,4,Domestic Medium Hair,None,Male,White,None,None,Medium,Short,Yes,Yes,No,Healthy,1,30,Pulau Pinang,9301802
+823,Cat,3,Domestic Short Hair,None,Female,Black,White,None,Medium,Short,No,No,No,Healthy,12,0,Selangor,7861136
+824,Cat,3,Domestic Long Hair,Domestic Medium Hair,Male,Black,Brown,Gray,Medium,Medium,Yes,Yes,No,Healthy,2,150,Selangor,2524374
+825,Cat,2,Oriental Short Hair,Bengal,Male,Black,Golden,Gray,Medium,Short,No,Yes,No,Healthy,1,8,Selangor,2879180
+826,Dog,3,Mixed Breed,None,Male,Brown,None,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,6431548
+827,Cat,6,Domestic Short Hair,None,Female,Gray,None,None,Small,Short,No,Yes,Yes,Healthy,1,0,Perak,7049174
+828,Dog,8,Terrier,None,Female,Brown,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,7264445
+829,Cat,2,Domestic Short Hair,Tabby,Female,Black,Gray,None,Small,Medium,No,No,No,Healthy,1,0,Selangor,5868252
+830,Cat,1,Domestic Short Hair,None,Male,Black,Gray,White,Small,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,8280694
+831,Cat,2,Domestic Short Hair,None,Female,Black,Gray,None,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,3470582
+832,Cat,3,Domestic Short Hair,Domestic Medium Hair,Female,Brown,Golden,White,Medium,Short,No,No,No,Healthy,1,0,Selangor,1872100
+833,Dog,12,Mixed Breed,Mixed Breed,Male,Brown,None,None,Small,Short,Yes,Yes,No,Minor Injury,1,0,Selangor,955700
+834,Cat,23,Domestic Short Hair,None,Mixed,Black,Golden,White,Medium,Short,No,Yes,Yes,Healthy,3,100,Selangor,6725232
+835,Cat,12,Domestic Short Hair,None,Male,Brown,White,None,Medium,Short,No,No,No,Healthy,2,0,Johor,3976322
+836,Cat,2,Domestic Long Hair,None,Mixed,Black,Golden,White,Small,Long,No,No,No,Healthy,5,0,Selangor,7018971
+837,Dog,4,Mixed Breed,None,Male,Brown,Golden,None,Medium,Short,Yes,Yes,No,Healthy,1,150,Kuala Lumpur,599158
+838,Cat,2,Domestic Medium Hair,None,Mixed,Black,Gray,White,Small,Medium,No,No,No,Healthy,2,0,Selangor,3473983
+839,Dog,1,Mixed Breed,None,Mixed,Black,Brown,None,Medium,Medium,No,No,No,Healthy,2,0,Johor,7865704
+840,Cat,0,Domestic Short Hair,None,Mixed,Black,Gray,White,Medium,Short,No,No,No,Healthy,2,0,Selangor,4041310
+841,Cat,2,Domestic Short Hair,None,Male,Black,White,None,Small,Short,No,Yes,No,Minor Injury,1,9,Selangor,5896652
+842,Dog,12,Mixed Breed,None,Male,Yellow,None,None,Medium,Short,Not Sure,Yes,Not Sure,Minor Injury,1,0,Selangor,615701
+843,Cat,92,Maine Coon,None,Female,Black,Brown,White,Medium,Long,Yes,No,Yes,Healthy,1,50,Kuala Lumpur,3716414
+844,Cat,8,Domestic Medium Hair,None,Male,Gray,White,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,9942275
+845,Dog,30,Miniature Pinscher,None,Female,Black,Golden,None,Small,Short,Yes,Not Sure,No,Healthy,1,50,Selangor,3532036
+846,Dog,2,Mixed Breed,Terrier,Male,Brown,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,385406
+847,Dog,3,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,2420486
+848,Cat,14,Domestic Short Hair,None,Male,Black,White,None,Large,Short,No,No,No,Healthy,1,0,Kuala Lumpur,6012907
+849,Dog,2,Mixed Breed,Mixed Breed,Mixed,Black,Brown,White,Large,Short,No,No,No,Healthy,6,0,Selangor,9513039
+850,Cat,14,American Shorthair,None,Female,Black,Gray,White,Medium,Medium,Yes,Not Sure,Not Sure,Healthy,1,0,Selangor,4019131
+851,Dog,3,Mixed Breed,None,Male,Black,White,None,Large,Medium,Yes,Yes,No,Healthy,1,150,Selangor,67866
+852,Cat,2,Domestic Medium Hair,Domestic Medium Hair,Female,Brown,None,None,Small,Long,No,No,No,Healthy,1,0,Kuala Lumpur,1279110
+853,Cat,2,Domestic Short Hair,None,Female,Brown,Yellow,Gray,Medium,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,4117708
+854,Dog,19,Doberman Pinscher,None,Female,Black,Brown,None,Large,Short,Yes,Yes,Yes,Healthy,1,500,Kuala Lumpur,5047872
+855,Cat,3,Domestic Short Hair,None,Mixed,Brown,None,None,Medium,Short,No,No,No,Healthy,2,0,Kuala Lumpur,9841557
+856,Dog,1,Mixed Breed,None,Female,Black,Brown,White,Medium,Medium,No,No,No,Healthy,1,0,Selangor,8646949
+857,Cat,3,Domestic Short Hair,None,Mixed,Black,Brown,Yellow,Medium,Short,No,No,No,Healthy,2,0,Kuala Lumpur,8542714
+858,Dog,4,Mixed Breed,None,Female,Black,None,None,Large,Short,Yes,Yes,No,Healthy,1,0,Pulau Pinang,5760281
+859,Cat,5,Domestic Short Hair,None,Male,Yellow,White,None,Medium,Short,Yes,Yes,Yes,Minor Injury,1,100,Kuala Lumpur,1829829
+860,Cat,5,Domestic Short Hair,None,Female,Black,Yellow,Cream,Medium,Medium,No,No,No,Healthy,2,0,Kuala Lumpur,4452316
+861,Dog,7,Mixed Breed,Mixed Breed,Male,Black,Brown,Yellow,Medium,Short,Yes,Yes,Not Sure,Healthy,1,0,Johor,4985401
+862,Dog,3,Mixed Breed,None,Male,Brown,None,None,Large,Short,No,No,No,Healthy,1,0,Pulau Pinang,2289262
+863,Dog,2,Shar Pei,Mixed Breed,Male,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,8569500
+864,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Not Sure,Yes,No,Healthy,1,0,Kuala Lumpur,6441940
+865,Dog,6,Mixed Breed,Mixed Breed,Male,Black,Yellow,White,Large,Short,Yes,Yes,No,Healthy,1,100,Negeri Sembilan,1640911
+866,Cat,2,Domestic Short Hair,None,Mixed,Black,Yellow,White,Medium,Short,Yes,Yes,No,Healthy,2,0,Kuala Lumpur,7395612
+867,Dog,3,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,9067983
+868,Cat,4,Domestic Short Hair,None,Mixed,Black,Yellow,White,Medium,Short,No,No,No,Healthy,2,0,Kuala Lumpur,1817847
+869,Cat,4,Domestic Short Hair,None,Female,Black,Yellow,White,Medium,Short,No,No,No,Healthy,3,0,Selangor,7183033
+870,Dog,2,Mixed Breed,None,Mixed,Black,Cream,White,Medium,Short,No,Not Sure,No,Healthy,8,0,Kuala Lumpur,3535633
+871,Dog,3,German Pinscher,Mixed Breed,Female,Black,Brown,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,562941
+872,Cat,3,Siamese,Domestic Short Hair,Mixed,Black,White,None,Medium,Short,No,No,No,Healthy,5,0,Selangor,4039080
+873,Cat,2,Domestic Short Hair,None,Mixed,Black,Brown,White,Small,Short,Yes,Yes,No,Healthy,6,100,Kuala Lumpur,428610
+874,Cat,1,Domestic Short Hair,None,Mixed,Brown,Gray,None,Small,Short,No,No,No,Healthy,2,0,Negeri Sembilan,6378656
+875,Dog,24,Beagle,None,Male,Black,Brown,White,Medium,Short,Yes,Yes,Yes,Healthy,1,300,Selangor,4579298
+876,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Small,Short,Not Sure,Not Sure,Not Sure,Minor Injury,1,0,Kuala Lumpur,4381643
+877,Cat,4,Domestic Short Hair,None,Male,Yellow,White,None,Small,Short,No,Yes,No,Healthy,1,0,Selangor,6985948
+878,Cat,3,Domestic Medium Hair,None,Male,Black,White,None,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,3422649
+879,Dog,3,Mixed Breed,None,Female,White,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,1568807
+880,Cat,3,Calico,None,Female,Black,Yellow,White,Medium,Short,No,Yes,No,Healthy,1,50,Pahang,9685935
+881,Dog,3,Mixed Breed,None,Female,Golden,None,None,Medium,Medium,Yes,Yes,No,Healthy,1,200,Selangor,9660709
+882,Dog,29,Terrier,Mixed Breed,Male,Cream,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,5166414
+883,Dog,32,Pug,None,Male,Black,Cream,None,Small,Short,Yes,Yes,No,Healthy,2,0,Selangor,789488
+884,Dog,2,Mixed Breed,None,Female,Black,White,None,Large,Short,No,Yes,No,Healthy,1,0,Selangor,2954765
+885,Cat,7,Domestic Short Hair,None,Female,Black,Brown,Gray,Medium,Short,No,No,No,Healthy,1,1,Selangor,801454
+886,Dog,5,Mixed Breed,Mixed Breed,Male,Yellow,None,None,Large,Short,Yes,Yes,Yes,Healthy,1,50,Negeri Sembilan,227721
+887,Cat,1,Russian Blue,Domestic Short Hair,Male,Cream,White,None,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,124917
+888,Cat,12,Domestic Short Hair,None,Male,Black,White,None,Large,Medium,Yes,Yes,No,Healthy,1,0,Selangor,3472282
+889,Dog,2,Mixed Breed,None,Male,Black,Brown,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,9272323
+890,Cat,5,Tabby,None,Mixed,Golden,None,None,Medium,Short,Yes,Yes,No,Healthy,2,0,Johor,7295876
+891,Dog,12,Mixed Breed,None,Male,Black,Golden,White,Medium,Medium,No,No,Yes,Healthy,1,0,Selangor,5222772
+892,Cat,2,Domestic Short Hair,None,Mixed,Black,Gray,White,Medium,Short,No,No,No,Healthy,3,0,Selangor,8364327
+893,Dog,12,German Shepherd Dog,Mixed Breed,Female,Black,None,None,Large,Medium,Yes,Yes,No,Healthy,1,0,Selangor,8427676
+894,Dog,24,Shih Tzu,None,Male,Gray,White,None,Small,Long,Not Sure,Not Sure,Not Sure,Healthy,1,0,Selangor,9715082
+895,Dog,3,Mixed Breed,None,Female,Black,Brown,Yellow,Medium,Short,Yes,Not Sure,Not Sure,Healthy,1,0,Selangor,3858625
+896,Dog,12,Mixed Breed,None,Female,Yellow,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,8798492
+897,Cat,6,Domestic Medium Hair,None,Female,Brown,Cream,Gray,Medium,Long,Not Sure,Not Sure,No,Healthy,1,0,Johor,8282000
+898,Cat,4,Domestic Short Hair,None,Female,Black,White,None,Small,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,9528459
+899,Dog,48,Beagle,None,Male,Black,Brown,White,Medium,Medium,Yes,Yes,Yes,Healthy,1,500,Kuala Lumpur,2845292
+900,Cat,5,Domestic Short Hair,None,Female,Black,Yellow,White,Small,Short,Yes,Yes,Yes,Healthy,1,100,Selangor,8910470
+901,Cat,10,Maine Coon,None,Female,Black,Brown,None,Large,Long,Yes,Yes,No,Healthy,1,550,Selangor,1989775
+902,Cat,2,Domestic Medium Hair,None,Mixed,Golden,Cream,White,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,5,0,Pulau Pinang,1846643
+903,Cat,5,Domestic Short Hair,Domestic Short Hair,Female,Black,Gray,White,Medium,Short,No,No,No,Healthy,2,0,Selangor,9920267
+904,Cat,24,Domestic Medium Hair,Domestic Long Hair,Female,Black,Yellow,White,Medium,Long,Not Sure,Not Sure,Not Sure,Healthy,6,0,Selangor,1525476
+905,Cat,3,Siamese,Tabby,Mixed,Golden,Cream,Gray,Medium,Medium,No,Yes,No,Healthy,3,0,Kedah,3550127
+906,Cat,1,Tuxedo,None,Male,Black,White,None,Medium,Medium,No,No,No,Healthy,1,50,Selangor,2842656
+907,Dog,1,Mixed Breed,Mixed Breed,Mixed,Brown,Golden,Yellow,Medium,Medium,No,No,No,Healthy,6,0,Perak,9314003
+908,Cat,24,Siamese,Domestic Medium Hair,Male,Cream,None,None,Medium,Long,Yes,Yes,Yes,Healthy,1,0,Selangor,7615611
+909,Dog,4,Mixed Breed,Mixed Breed,Mixed,Brown,Cream,White,Medium,Short,No,No,No,Healthy,5,0,Selangor,5572311
+910,Cat,1,Domestic Medium Hair,None,Mixed,Brown,Golden,Gray,Small,Medium,No,No,No,Healthy,4,0,Selangor,6167376
+911,Cat,48,Domestic Short Hair,None,Female,Black,Brown,Yellow,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,2865458
+912,Dog,2,Mixed Breed,None,Female,Black,None,None,Medium,Medium,No,No,No,Healthy,1,20,Pulau Pinang,6162183
+913,Dog,18,Lhasa Apso,None,Male,Gray,White,None,Medium,Long,Yes,Yes,Yes,Healthy,1,0,Selangor,7767352
+914,Cat,2,Domestic Short Hair,None,Mixed,Black,Yellow,Gray,Small,Short,No,No,No,Healthy,3,0,Selangor,107367
+915,Dog,12,Terrier,Mixed Breed,Male,Black,None,None,Medium,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,3876723
+916,Dog,3,Mixed Breed,None,Female,Black,Brown,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,7842514
+917,Dog,2,Mixed Breed,Rottweiler,Male,Black,Brown,Yellow,Medium,Short,No,No,No,Healthy,2,0,Perak,2152412
+918,Dog,12,Mixed Breed,None,Male,Golden,Cream,None,Medium,Medium,Not Sure,No,No,Healthy,1,0,Perak,3380931
+919,Cat,6,Domestic Short Hair,None,Female,Black,Gray,None,Medium,Short,Yes,Yes,Yes,Healthy,1,50,Kuala Lumpur,2451502
+920,Dog,1,Mixed Breed,Mixed Breed,Female,Golden,None,None,Medium,Short,No,No,No,Healthy,1,20,Selangor,9410086
+921,Dog,7,Labrador Retriever,Mixed Breed,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,8741182
+922,Dog,2,Mixed Breed,None,Female,Black,Brown,None,Small,Short,No,No,No,Healthy,1,0,Selangor,8501669
+923,Dog,2,Mixed Breed,Mixed Breed,Male,Black,Brown,White,Medium,Short,No,No,No,Healthy,8,0,Selangor,664276
+924,Cat,5,Domestic Short Hair,None,Female,Brown,Yellow,Gray,Medium,Short,No,No,No,Healthy,1,0,Selangor,5329211
+925,Dog,84,Labrador Retriever,None,Male,Cream,None,None,Large,Medium,Not Sure,Not Sure,Not Sure,Healthy,1,0,Kuala Lumpur,7502240
+926,Cat,2,Domestic Short Hair,None,Male,Golden,White,None,Small,Medium,No,Yes,No,Healthy,1,0,Selangor,9483280
+927,Dog,3,Mixed Breed,None,Female,Black,Brown,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,5389443
+928,Dog,1,Mixed Breed,None,Female,Black,Brown,None,Medium,Medium,No,Yes,No,Healthy,1,0,Perak,5880349
+929,Dog,1,Mixed Breed,None,Mixed,Black,Brown,White,Medium,Medium,No,No,No,Healthy,9,0,Selangor,1631436
+930,Cat,2,Bengal,Tortoiseshell,Female,Black,Brown,Yellow,Medium,Medium,No,Yes,No,Healthy,1,0,Kuala Lumpur,9179997
+931,Cat,11,Domestic Long Hair,None,Female,Brown,None,None,Medium,Long,No,No,No,Healthy,1,0,Selangor,6795338
+932,Dog,2,Miniature Pinscher,None,Female,Black,None,None,Small,Short,Not Sure,Not Sure,Not Sure,Healthy,1,100,Pulau Pinang,7717455
+933,Dog,4,Mixed Breed,None,Male,Brown,None,None,Medium,Short,Not Sure,Yes,Not Sure,Healthy,1,0,Kuala Lumpur,8805971
+934,Cat,7,Domestic Short Hair,Domestic Short Hair,Mixed,Golden,Gray,White,Medium,Short,Not Sure,Not Sure,Not Sure,Healthy,2,0,Selangor,1454585
+935,Dog,2,Miniature Pinscher,None,Male,Black,Brown,None,Small,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,6402309
+936,Dog,36,Husky,None,Female,Brown,Cream,None,Large,Medium,Not Sure,Not Sure,Yes,Healthy,1,0,Selangor,6055657
+937,Cat,2,Domestic Medium Hair,None,Male,Golden,Yellow,None,Small,Medium,No,Yes,No,Healthy,1,0,Kuala Lumpur,8202575
+938,Cat,6,Domestic Short Hair,None,Male,Black,White,None,Small,Short,No,No,No,Healthy,1,0,Selangor,2250610
+939,Dog,3,Mixed Breed,None,Female,Brown,Golden,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,3642525
+940,Dog,5,Mixed Breed,None,Male,Brown,Gray,White,Medium,Short,Yes,Yes,No,Healthy,3,0,Selangor,9910848
+941,Cat,3,Tuxedo,None,Female,Black,None,None,Small,Short,No,No,No,Healthy,4,0,Selangor,537873
+942,Cat,1,Domestic Short Hair,None,Male,Black,Brown,White,Large,Medium,No,Yes,Not Sure,Healthy,1,0,Selangor,4952485
+943,Dog,12,Mixed Breed,Spitz,Female,Brown,White,None,Medium,Medium,No,No,Yes,Healthy,1,0,Selangor,5291874
+944,Cat,1,Domestic Short Hair,None,Mixed,Black,None,None,Medium,Short,No,No,No,Healthy,4,0,Kuala Lumpur,8211702
+945,Cat,1,Domestic Short Hair,None,Male,Black,Cream,Gray,Medium,Short,No,No,No,Healthy,1,0,Selangor,5684146
+946,Dog,12,German Shepherd Dog,Mixed Breed,Male,Black,Brown,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,8799038
+947,Dog,3,Mixed Breed,Mixed Breed,Male,Cream,Gray,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,5995826
+948,Cat,1,Domestic Medium Hair,None,Female,Gray,White,None,Medium,Medium,No,No,No,Healthy,1,0,Selangor,8070601
+949,Dog,5,Mixed Breed,None,Female,Black,White,None,Large,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,8991033
+950,Dog,9,Mixed Breed,None,Male,Gray,None,None,Medium,Short,Not Sure,Yes,No,Healthy,1,0,Selangor,631388
+951,Cat,16,Domestic Short Hair,None,Male,Cream,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,100,Selangor,2185956
+952,Dog,5,Mixed Breed,None,Male,Golden,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,2287335
+953,Cat,2,Persian,Domestic Long Hair,Female,Black,Yellow,White,Medium,Long,No,Yes,No,Healthy,1,550,Selangor,4730636
+954,Dog,2,Mixed Breed,None,Female,Brown,None,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,4999684
+955,Dog,12,Mixed Breed,None,Male,Brown,Cream,White,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,6195812
+956,Cat,36,Domestic Short Hair,None,Male,Black,Brown,None,Large,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,1954428
+957,Dog,1,Mixed Breed,None,Male,Yellow,Cream,White,Medium,Short,No,Yes,No,Healthy,1,0,Selangor,1316120
+958,Cat,1,Domestic Short Hair,None,Female,Black,White,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,5256460
+959,Cat,8,Bengal,Siamese,Male,Brown,None,None,Medium,Medium,No,No,No,Healthy,1,100,Selangor,9228647
+960,Dog,48,Pomeranian,None,Male,Brown,Golden,None,Small,Medium,Yes,Yes,No,Healthy,1,0,Selangor,4712776
+961,Dog,2,Mixed Breed,None,Male,Black,White,None,Medium,Short,No,No,No,Healthy,1,0,Selangor,8315645
+962,Cat,2,Domestic Short Hair,None,Female,Brown,Cream,None,Small,Short,Yes,Yes,No,Healthy,1,0,Selangor,1970197
+963,Dog,3,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,9870803
+964,Dog,12,Golden Retriever,Mixed Breed,Mixed,Black,Brown,None,Medium,Medium,Not Sure,Not Sure,No,Healthy,3,0,Selangor,381444
+965,Dog,5,Whippet,Mixed Breed,Female,Golden,Cream,White,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,1754901
+966,Dog,4,Mixed Breed,None,Female,Brown,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Selangor,8592631
+967,Dog,3,Mixed Breed,None,Female,Black,Brown,Golden,Large,Short,Not Sure,Not Sure,Not Sure,Healthy,2,0,Pulau Pinang,1763140
+968,Dog,12,Labrador Retriever,None,Male,Brown,None,None,Large,Short,Not Sure,Not Sure,No,Healthy,1,0,Selangor,9241885
+969,Cat,2,Domestic Long Hair,Domestic Medium Hair,Male,Black,White,None,Small,Medium,Yes,Yes,No,Healthy,1,0,Selangor,7161340
+970,Cat,1,Domestic Short Hair,None,Male,Black,Brown,Cream,Medium,Short,No,No,No,Healthy,5,0,Selangor,1005822
+971,Cat,12,Tabby,None,Female,Gray,None,None,Medium,Short,No,Yes,No,Healthy,1,80,Selangor,8137417
+972,Dog,30,English Bulldog,None,Male,Cream,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,6019154
+973,Dog,2,Mixed Breed,None,Male,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,90,Selangor,3394822
+974,Cat,6,Oriental Short Hair,None,Female,Brown,None,None,Small,Short,Yes,Yes,Yes,Healthy,1,200,Selangor,7866812
+975,Cat,60,Domestic Short Hair,None,Male,Yellow,None,None,Large,Short,Yes,Yes,Yes,Healthy,1,0,Kuala Lumpur,569797
+976,Dog,60,Beagle,Mixed Breed,Male,Black,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Selangor,5511069
+977,Cat,4,Domestic Long Hair,None,Female,Black,Brown,None,Medium,Long,Yes,Yes,No,Healthy,1,0,Johor,9604332
+978,Cat,2,Tabby,None,Mixed,Black,Yellow,None,Small,Medium,No,No,No,Healthy,4,0,Selangor,6007978
+979,Dog,1,Mixed Breed,None,Female,Brown,None,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Selangor,4571221
+980,Cat,24,Siamese,None,Male,Brown,Cream,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,150,Johor,3158933
+981,Cat,1,Domestic Short Hair,None,Female,Black,Brown,Golden,Medium,Short,Not Sure,Yes,No,Healthy,1,0,Selangor,7881588
+982,Cat,2,Domestic Short Hair,None,Female,Brown,None,None,Small,Short,No,No,No,Healthy,1,0,Kuala Lumpur,2656548
+983,Cat,1,Domestic Short Hair,None,Male,Black,Yellow,White,Small,Short,No,Not Sure,Not Sure,Healthy,5,5,Kuala Lumpur,2934192
+984,Dog,1,Mixed Breed,Mixed Breed,Male,Cream,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,200,Kuala Lumpur,3362048
+985,Dog,1,Mixed Breed,Mixed Breed,Female,Golden,Cream,White,Medium,Medium,Yes,Yes,No,Healthy,1,0,Selangor,6994253
+986,Cat,24,Domestic Short Hair,None,Female,Gray,None,None,Medium,Medium,Yes,Yes,Yes,Healthy,1,0,Johor,4197095
+987,Dog,9,Mixed Breed,None,Male,White,None,None,Medium,Short,Yes,Yes,Yes,Healthy,1,0,Pulau Pinang,8736464
+988,Dog,1,Bull Terrier,Mixed Breed,Male,Brown,White,None,Medium,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,126943
+989,Dog,1,Mixed Breed,None,Mixed,Black,Brown,White,Small,Short,No,Yes,No,Healthy,9,30,Selangor,912001
+990,Cat,10,Domestic Medium Hair,Domestic Short Hair,Male,Yellow,White,None,Large,Medium,No,No,No,Healthy,1,0,Kuala Lumpur,6858866
+991,Dog,2,Mixed Breed,None,Female,Golden,None,None,Medium,Medium,No,Yes,No,Healthy,1,0,Selangor,3026417
+992,Dog,10,Golden Retriever,None,Male,Cream,None,None,Large,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,5434355
+993,Cat,3,Domestic Medium Hair,None,Mixed,Golden,Gray,White,Medium,Medium,No,No,Not Sure,Healthy,6,0,Melaka,5969956
+994,Cat,4,Domestic Short Hair,Siamese,Female,Brown,White,None,Medium,Short,Yes,Yes,Yes,Healthy,1,100,Selangor,1846758
+995,Cat,3,Domestic Short Hair,None,Male,Yellow,White,None,Medium,Short,Yes,Yes,No,Healthy,1,0,Kuala Lumpur,5147259
+996,Cat,8,Domestic Short Hair,None,Mixed,Black,Brown,None,Medium,Short,No,No,No,Healthy,3,50,Selangor,1031776
+997,Cat,2,Tabby,None,Mixed,Yellow,Gray,White,Small,Medium,No,No,No,Healthy,2,0,Selangor,2150159
+998,Dog,2,Mixed Breed,None,Male,Cream,White,None,Medium,Short,No,No,No,Healthy,1,0,Perak,2911012
+999,Dog,4,Mixed Breed,None,Male,Brown,None,None,Medium,Short,Yes,Yes,Not Sure,Healthy,1,0,Negeri Sembilan,8747840
+1000,Dog,1,Mixed Breed,None,Male,Black,Brown,None,Medium,Short,No,Yes,No,Healthy,1,0,Kuala Lumpur,2417277
