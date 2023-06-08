@@ -1,0 +1,37 @@
+What does this data warehouse do?
+
+The pet rescue organization data warehouse is designed to:
+
+    Centralize Data: It consolidates pet-related data from various sources into a single, unified repository, providing a holistic view of pet information.
+    Store Pet Details: The data warehouse stores detailed information about pets, including their ID, type, characteristics, medical status, location, age, price, start and end dates, and current status.
+    Enable Analysis: By organizing the data into dimension and fact tables, the data warehouse enables easy analysis and reporting on pet-related metrics such as pet types, characteristics, medical statuses, and more.
+    Support Decision-Making: The data warehouse provides accurate and up-to-date information to support informed decision-making for the pet rescue organization, whether it's related to pet adoption, medical care, or resource allocation.
+
+How does this data warehouse work well?
+
+The pet rescue organization data warehouse works well due to the following reasons:
+
+    Centralized Data Management: By consolidating data from multiple sources, the data warehouse eliminates data silos and ensures a single source of truth for pet-related information. This reduces data redundancy and improves data integrity.
+
+    Dimensional Model: The data warehouse follows a dimensional model, with dimension tables storing descriptive attributes (types, characteristics, medicals, and locations) and a fact table storing the core pet information. This model facilitates efficient data analysis and reporting, enabling quick access to specific pet details.
+
+    Surrogate and Foreign Keys: The use of surrogate keys in dimension tables and foreign keys in the fact table establishes relationships and maintains referential integrity. This ensures consistent data linkage and simplifies data retrieval and analysis across multiple dimensions.
+
+    Slowly Changing Dimension Type 2: The fact table is designed to handle changes in dimension attributes over time using Slowly Changing Dimension Type 2. This allows for historical tracking of dimension changes, providing a comprehensive view of pet data at different points in time.
+
+    ETL Workflow: The integration of an Extract-Transform-Load (ETL) workflow, powered by Pentaho Integration, enables seamless data extraction, transformation, and loading. It ensures the data warehouse is updated regularly with the latest pet-related data, keeping the information relevant and accurate.
+
+Why does it fulfill the organization's requirements?
+
+The pet rescue organization data warehouse fulfills the organization's requirements due to the following reasons:
+
+    Comprehensive Pet Data: The data warehouse stores a wide range of pet-related information, including types, characteristics, medical statuses, and more. This allows the organization to have a complete view of their pet population and make informed decisions about pet care, adoption, and resource allocation.
+
+    Data Integrity and Consistency: By centralizing data and implementing surrogate and foreign keys, the data warehouse ensures data integrity and consistency. This eliminates data discrepancies and enables reliable reporting and analysis.
+
+    Historical Perspective: The Slowly Changing Dimension Type 2 implementation in the fact table allows the organization to track changes in pet attributes over time. This historical perspective enables analysis of trends and patterns, helping the organization understand the evolution of their pet population.
+
+    Efficient Reporting and Analysis: The dimensional model and ETL workflow enable efficient reporting and analysis of pet-related metrics. With a well-structured data model and regular data updates, the organization can generate insights, make data-driven decisions, and measure
+
+User
+
