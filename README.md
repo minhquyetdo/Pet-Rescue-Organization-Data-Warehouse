@@ -23,6 +23,7 @@ This data warehouse enables efficient reporting, analysis, and decision-making f
 |.tables-erd/create-tables.sql|Source code for creating tables in the "pet_rescue" database|
 |.etl-package/|Source code for ETL workflow|
 |.etl-package/workflow-explanation.txt|Explanation for ETL workflow|
+|.tables-erd/business-queries.sql|Business queries demo|
 
 
 ## Clone the data warehouse
