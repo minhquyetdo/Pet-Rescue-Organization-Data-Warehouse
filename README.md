@@ -4,6 +4,8 @@
 A **centralized data warehouse** designed to store and manage pet-related data. It provides a comprehensive view of pets, their characteristics, medical statuses, and other relevant information. \
 This data warehouse enables efficient reporting, analysis, and decision-making for the pet rescue organization.
 
+<img width="1680" alt="Screen Shot 2023-06-10 at 22 31 08" src="https://github.com/minhquyetdo/Pet-Rescue-Organization-Data-Warehouse/assets/135207786/65ed29ab-6533-4854-9ed0-121f4898ac80">
+
 **Technical features** in this Data Warehouse:
 |Features| Description |
 |:------|-----------:|
